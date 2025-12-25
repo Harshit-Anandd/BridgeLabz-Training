@@ -14,11 +14,14 @@ public class CalendarDisplay {
         int x = y0 + y0 / 4 - y0 / 100 + y0 / 400;
         int m0 = m + 12 * ((14 - m) / 12) - 2;
         int d0 = (d + x + (31 * m0) / 12) % 7;
+		
+		// Return the results
         return d0;
     }
 
     // Method to check if the year is a leap year
     public static boolean isLeapYear(int year) {
+		// Return the results
         return (year % 4 == 0 && year % 100 != 0) || (year % 400 == 0);
     }
 
