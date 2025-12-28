@@ -27,4 +27,4 @@
 - Committed and pushed the code to the repository
 
 ### 🔗 Code Link
-👉 [Day 9 – Introduction to OOP](/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/levelone)
+👉 [Day 9 – Introduction to OOP](/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops)
