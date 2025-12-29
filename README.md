@@ -60,4 +60,33 @@
 
 ---
 
+## 📌 Day 11 – this, static, final & instanceof
+**(Date: 29-Dec-2025)**
+
+### ✅ Overview
+- Learned the purpose and correct usage of the **this**, **static**, and **final** keywords in Java
+- Understood how **static members** enable shared, class-level behavior
+- Explored the **instanceof operator** for safe type-checking and runtime validation
+- Gained clarity on when to use each keyword to write clean, efficient, and maintainable code
+
+### 📘 Core Concepts Covered
+- `this` keyword for resolving ambiguity and constructor chaining
+- `static` variables, methods, and their memory behavior
+- `final` variables, methods, and classes for immutability and restriction
+- `instanceof` operator for safe downcasting and polymorphic checks
+- Best practices for combining `this`, `static`, `final`, and `instanceof`
+
+### 🧪 Hands-on Practice
+- Implemented multiple real-world Java programs using all four concepts together
+- Built systems such as Bank Account, Library, Employee, Shopping Cart, Student, Vehicle, and Hospital Management
+- Used static members for shared data like counts, names, and configuration values
+- Applied final variables for unique identifiers and constants
+- Used instanceof checks to ensure safe object operations
+- Committed and pushed all practice programs to the repository
+
+### 🔗 Code Links
+👉 [Day 11 – this, static, final & instanceof](/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/inbuiltfunction)
+
+---
+
 ✨ *More updates coming as I continue with my learnings...*
