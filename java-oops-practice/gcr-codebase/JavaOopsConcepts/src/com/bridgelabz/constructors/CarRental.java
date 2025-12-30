@@ -1,4 +1,4 @@
-package com.bridgelabz.constructors.levelone;
+package com.bridgelabz.constructors;
 
 //Create class CarRental to manage car rental details and cost calculations.
 public class CarRental {
