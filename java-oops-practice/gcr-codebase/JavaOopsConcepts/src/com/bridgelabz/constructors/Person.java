@@ -1,4 +1,4 @@
-package com.bridgelabz.constructors.levelone;
+package com.bridgelabz.constructors;
 
 //Create class Person to demonstrate parameterized and copy constructors.
 public class Person {
