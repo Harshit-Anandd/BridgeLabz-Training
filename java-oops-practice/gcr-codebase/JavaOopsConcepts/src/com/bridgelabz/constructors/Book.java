@@ -1,4 +1,4 @@
-package com.bridgelabz.constructors.levelone;
+package com.bridgelabz.constructors;
 
 //Create class Book to demonstrate default and parameterized constructors.
 public class Book {
