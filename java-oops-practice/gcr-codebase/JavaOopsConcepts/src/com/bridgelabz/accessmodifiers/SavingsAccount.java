@@ -1,6 +1,6 @@
 //Create class SavingsAccount that extends BankAccount to demonstrate inheritance and access modifiers.
 
-package com.bridgelabz.accessmodifiers.levelone;
+package com.bridgelabz.accessmodifiers;
 
 public class SavingsAccount extends BankAccount {
     // Constructor to initialize SavingsAccount by calling parent class constructor
