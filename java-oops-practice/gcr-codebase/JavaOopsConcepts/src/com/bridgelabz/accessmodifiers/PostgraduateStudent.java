@@ -1,6 +1,6 @@
 //Create class PostgraduateStudent that extends Student to demonstrate inheritance and access modifiers.
 
-package com.bridgelabz.accessmodifiers.levelone;
+package com.bridgelabz.accessmodifiers;
 
 public class PostgraduateStudent extends Student {
     // Constructor to initialize PostgraduateStudent by calling parent class constructor
