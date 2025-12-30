@@ -54,9 +54,9 @@
 - Successfully committed and pushed all practice programs to the repository
 
 ### 🔗 Code Links
-👉 [Day 10 – Constructors](/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/constructors/levelone)
-👉 [Day 10 – Class Members](/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/instanceandclass/levelone)
-👉 [Day 10 – Access Modifiers](/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/accessmodifiers/levelone)
+👉 [Day 10 – Constructors](/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/constructors)
+👉 [Day 10 – Class Members](/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/instanceandclass)
+👉 [Day 10 – Access Modifiers](/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/accessmodifiers)
 
 ---
 
@@ -84,7 +84,7 @@
 - Committed and pushed all practice programs to the repository
 
 ### 🔗 Code Links
-👉 [Day 11 – this, static, final & instanceof](/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/inbuiltfunction)
+👉 [Day 11 – this, static, final & instanceof](/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/inbuiltfunction)
 
 ---
 
