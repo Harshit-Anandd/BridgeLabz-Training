@@ -78,7 +78,6 @@
 
 ### 🧪 Hands-on Practice
 - Implemented multiple real-world Java programs using all four concepts together
-- Built systems such as Bank Account, Library, Employee, Shopping Cart, Student, Vehicle, and Hospital Management
 - Used static members for shared data like counts, names, and configuration values
 - Applied final variables for unique identifiers and constants
 - Used instanceof checks to ensure safe object operations
