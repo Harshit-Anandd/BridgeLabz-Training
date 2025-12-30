@@ -1,6 +1,6 @@
 //Create class Course to demonstrate instance and class variables, and methods.
 
-package com.bridgelabz.instanceandclass.levelone;
+package com.bridgelabz.instanceandclass;
 
 public class Course {
 
