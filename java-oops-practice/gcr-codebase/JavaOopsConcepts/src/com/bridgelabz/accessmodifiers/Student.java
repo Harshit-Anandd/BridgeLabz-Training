@@ -1,6 +1,6 @@
 //Create class Student to demonstrate access modifiers with attributes and getters/setters.
 
-package com.bridgelabz.accessmodifiers.levelone;
+package com.bridgelabz.accessmodifiers;
 
 public class Student {
     public int rollNumber;
