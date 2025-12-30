@@ -1,6 +1,6 @@
 //Create class Employee to demonstrate access modifiers with salary management.
 
-package com.bridgelabz.accessmodifiers.levelone;
+package com.bridgelabz.accessmodifiers;
 
 public class Employee {
     public int employeeID;
