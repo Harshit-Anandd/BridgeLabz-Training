@@ -1,6 +1,6 @@
 // Create class EBook that extends Book to demonstrate inheritance and access modifiers.
 
-package com.bridgelabz.accessmodifiers.levelone;
+package com.bridgelabz.accessmodifiers;
 
 public class EBook extends Book {
     // Constructor to initialize EBook by calling parent class constructor
