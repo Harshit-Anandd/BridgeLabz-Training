@@ -1,4 +1,4 @@
-package com.bridgelabz.constructors.levelone;
+package com.bridgelabz.constructors;
 
 //Create class HotelBooking to demonstrate different constructor types.
 public class HotelBooking {
