@@ -1,6 +1,6 @@
 //Create class Book to demonstrate access modifiers with book attributes.
 
-package com.bridgelabz.accessmodifiers.levelone;
+package com.bridgelabz.accessmodifiers;
 
 public class Book {
     public String isbn;
