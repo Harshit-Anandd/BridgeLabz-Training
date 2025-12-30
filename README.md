@@ -14,7 +14,7 @@
 - Compared **procedural vs object-oriented programming** paradigms  
 - Learned why **OOP** is widely used in modern software development  
 
-### 📘 Core OOP Concepts
+### 📘 Core Concepts Covered
 - Class and Object  
 - Encapsulation and Abstraction  
 - Inheritance  
