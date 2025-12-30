@@ -1,4 +1,4 @@
-package com.bridgelabz.constructors.levelone;
+package com.bridgelabz.constructors;
 
 //Create class LibraryBook to manage book availability and borrowing operations.
 public class LibraryBook {
