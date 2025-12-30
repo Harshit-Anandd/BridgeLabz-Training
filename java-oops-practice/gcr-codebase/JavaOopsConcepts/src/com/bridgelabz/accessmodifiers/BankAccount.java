@@ -1,6 +1,6 @@
 //Create class BankAccount to demonstrate access modifiers with banking operations.
 
-package com.bridgelabz.accessmodifiers.levelone;
+package com.bridgelabz.accessmodifiers;
 
 public class BankAccount {
     public String accountNumber;
