@@ -1,6 +1,6 @@
 //Create class Manager that extends Employee to demonstrate inheritance and access modifiers.
 
-package com.bridgelabz.accessmodifiers.levelone;
+package com.bridgelabz.accessmodifiers;
 
 public class Manager extends Employee {
     // Constructor to initialize Manager by calling parent class constructor
