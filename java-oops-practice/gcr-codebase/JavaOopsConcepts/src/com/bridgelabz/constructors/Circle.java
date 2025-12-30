@@ -1,4 +1,4 @@
-package com.bridgelabz.constructors.levelone;
+package com.bridgelabz.constructors;
 
 //Create class Circle to demonstrate constructor chaining.
 public class Circle {
