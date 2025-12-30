@@ -1,4 +1,4 @@
-package com.bridgelabz.oops.inbuiltfunction;
+package com.bridgelabz.inbuiltfunction;
 
 class Book {
 
