@@ -88,4 +88,39 @@
 
 ---
 
+## 📌 Day 12 – Object Modelling and UML Diagrams
+**(Date: 30-Dec-2025)**
+
+### ✅ Overview
+- Learned how to model real-world problems using **classes and objects**
+- Understood **object relationships** and how objects interact within a system
+- Explored **object-oriented design principles** using UML
+- Gained clarity on translating problem statements into structured designs
+
+### 📘 Core Concepts Covered
+- Class vs Object
+- Object relationships:
+  - Association
+  - Aggregation
+  - Composition
+- Object communication through method calls
+- UML diagrams:
+  - Class Diagrams
+  - Object Diagrams
+  - Sequence Diagrams
+
+### 🧪 Hands-on Practice
+- Designed UML diagrams for multiple real-world systems
+- Modeled scenarios such as School, Bank, Library, Grocery Store, Hospital, and University systems
+- Created Class Diagrams to represent static structure
+- Created Object Diagrams to capture runtime object states
+- Created Sequence Diagrams to show interaction flow and message ordering
+- Submitted all diagram-based assignments and pushed them to the repository
+
+
+### 🔗 Code Links
+👉 [Day 12 – Object Modelling and UML Diagrams](/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/objectmodelling)
+
+---
+
 ✨ *More updates coming as I continue with my learnings...*
