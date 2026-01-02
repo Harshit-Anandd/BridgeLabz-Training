@@ -12,6 +12,8 @@
 
 bin/
 
+src/module-info.java
+
 target/
 
 # Logs
