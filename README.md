@@ -156,4 +156,33 @@
 
 ---
 
+## 📌 Day 14 – Encapsulation, Polymorphism, Interface and Abstract Classes
+**(Date: 1-Jan-2026)**
+
+### ✅ Overview
+- Learned key object-oriented concepts including **Encapsulation**, **Polymorphism**, **Interfaces**, and **Abstract Classes**
+- Understood how abstraction and polymorphism enable flexible and maintainable designs
+- Explored design decisions between classes, abstract classes, and interfaces
+- Applied OOP principles to build modular and scalable systems
+
+### 📘 Core Concepts Covered
+- Encapsulation using private fields with controlled access
+- Polymorphism through method overloading and overriding
+- Runtime polymorphism using superclass and interface references
+- Abstract classes for shared structure and partial implementation
+- Interfaces for defining contracts and achieving multiple inheritance
+- Best practices for clean and extensible OOP design
+
+### 🧪 Hands-on Practice
+- Implemented encapsulated classes with validation logic
+- Built polymorphic systems using inheritance, abstract classes, and interfaces
+- Designed systems such as Employee, Banking, Vehicle Rental, Library, Hospital, and E-commerce platforms
+- Applied interface-based design for loose coupling
+- Completed submissions and pushed all implementations to the repository
+
+### 🔗 Code Links
+👉 [Day 14 – Encapsulation, Polymorphism, Interface and Abstract Classes](/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/encapsulation)
+
+---
+
 ✨ *More updates coming as I continue with my learnings...*
