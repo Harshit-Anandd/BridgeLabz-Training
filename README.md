@@ -222,4 +222,24 @@
 
 ---
 
+## 📌 Day 17 – Solved Scenario-Based Problems
+**(Date: 5-Jan-2026)**
+
+### 🧩 Scenario-Based Problems (OOP Practice)
+- Designed real-world systems such as:
+  - College management and course enrollment platforms
+  - Online shopping and cart management systems
+- Identified classes, attributes, methods, and relationships from scenarios
+- Applied OOP principles:
+  - Encapsulation for data protection
+  - Inheritance for shared structure
+  - Interfaces for defining contracts
+  - Polymorphism for flexible behavior
+- Strengthened ability to translate problem statements into clean OOP designs
+
+### 🔗 Code Links
+👉 [Day 17 – Scenario-Based Problems](/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day03)
+
+---
+
 ✨ *More updates coming as I continue with my learnings...*
