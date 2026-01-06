@@ -117,9 +117,42 @@
 - Created Sequence Diagrams to show interaction flow and message ordering
 - Submitted all diagram-based assignments and pushed them to the repository
 
-
 ### 🔗 Code Links
 👉 [Day 12 – Object Modelling and UML Diagrams](/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/objectmodelling)
+
+---
+
+## 📌 Day 13 – Inheritance
+**(Date: 31-Dec-2025)**
+
+### ✅ Overview
+- Learned **inheritance** as a core object-oriented principle for code reuse and extensibility
+- Understood how subclasses derive behavior and properties from superclasses
+- Explored how inheritance supports **polymorphism** and structured class hierarchies
+- Gained clarity on when and how inheritance should be applied in real-world designs
+
+### 📘 Core Concepts Covered
+- Superclass and subclass relationships
+- Types of inheritance:
+  - Single inheritance
+  - Multilevel inheritance
+  - Hierarchical inheritance
+  - Hybrid inheritance using interfaces
+- Method overriding and use of `@Override`
+- Constructor chaining using `super()`
+- Polymorphism with superclass references
+- Access modifiers and their behavior in inheritance
+- Best practices and design guidelines for inheritance
+
+### 🧪 Hands-on Practice
+- Implemented multiple inheritance-based programs using real-world scenarios
+- Built class hierarchies such as Animal, Employee, Vehicle, Bank Account, School, and Course systems
+- Practiced method overriding and runtime polymorphism
+- Used interfaces to simulate multiple inheritance
+- Applied inheritance design best practices to avoid tight coupling
+
+### 🔗 Code Links
+👉 [Day 13 – Inheritance](/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/inheritance)
 
 ---
 
