@@ -261,4 +261,25 @@
 
 ---
 
+## 📌 Day 19 – Solved Scenario-Based Problems
+**(Date: 7-Jan-2026)**
+
+### 🧩 Scenario-Based Problems (OOP Practice)
+- Designed real-world systems such as:
+  - Loan approval automation platforms
+  - Digital bookstore and order management systems
+  - Smart parking management applications
+- Identified classes, attributes, methods, and relationships from scenarios
+- Applied OOP principles:
+  - Encapsulation for data protection
+  - Inheritance for shared structure
+  - Interfaces for defining contracts
+  - Polymorphism for flexible business logic
+- Strengthened ability to translate real-world requirements into clean, maintainable OOP designs
+
+### 🔗 Code Links
+👉 [Day 19 – Scenario-Based Problems](/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day05)
+
+---
+
 ✨ *More updates coming as I continue with my learnings...*
