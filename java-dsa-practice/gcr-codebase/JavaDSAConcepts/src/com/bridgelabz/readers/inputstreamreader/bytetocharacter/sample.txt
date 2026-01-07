@@ -1,0 +1,43 @@
+### ✅ Overview
+- Learned fundamental **sorting algorithms** and their role in organizing data efficiently
+- Understood how different sorting techniques vary in approach, performance, and use cases
+- Analyzed time and space complexity to choose suitable algorithms
+- Applied sorting logic to solve real-world data ordering problems
+
+### 📘 Core Concepts Covered
+- Sorting fundamentals and importance
+- Comparison-based sorting algorithms:
+  - Bubble Sort
+  - Insertion Sort
+  - Selection Sort
+  - Merge Sort
+  - Quick Sort
+  - Heap Sort
+- Non-comparison-based sorting:
+  - Counting Sort
+  - Overview of Radix Sort and Bucket Sort
+- Divide and Conquer approach in sorting
+- Stability, in-place sorting, and complexity analysis (best, average, worst cases)
+
+### 🧪 Hands-on Practice
+- Implemented multiple sorting algorithms on arrays of primitive data
+- Solved practical problems such as sorting:
+  - Student marks and exam scores
+  - Employee IDs
+  - Book prices and product prices
+  - Salary expectations and age data
+- Compared algorithm performance based on input size and data distribution
+- Completed sorting algorithm submissions and pushed implementations to the repository
+
+### 🧩 Scenario-Based Problems (OOP Practice)
+- Solved **object-oriented scenario-based problems** unrelated to sorting logic
+- Designed real-world systems such as:
+  - College management and course enrollment platforms
+  - Online shopping and cart management systems
+- Identified classes, attributes, methods, and relationships from scenarios
+- Applied OOP principles:
+  - Encapsulation for data protection
+  - Inheritance for shared structure
+  - Interfaces for defining contracts
+  - Polymorphism for flexible behavior
+- Strengthened ability to translate problem statements into clean OOP designs
