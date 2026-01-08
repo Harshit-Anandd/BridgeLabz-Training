@@ -152,4 +152,33 @@
 
 ---
 
+## 📌 Day 19 – Runtime Analysis of Algorithms & Big-O Notation
+**(Date: 7-Jan-2026)**
+
+### ✅ Overview
+- Learned how to evaluate **algorithm efficiency** using runtime analysis
+- Understood **Big-O notation** to measure time and space complexity
+- Analyzed algorithm performance across best, average, and worst cases
+- Applied complexity analysis to make informed design and optimization decisions
+
+### 📘 Core Concepts Covered
+- Runtime analysis and its importance in algorithm design
+- Big-O notation and common complexity classes:
+  - O(1), O(log N), O(N), O(N log N), O(N²), O(2ⁿ), O(N!)
+- Time complexity analysis with practical examples
+- Space complexity analysis and memory trade-offs
+- Best, average, and worst case analysis
+- Practical optimization guidelines for Java programs
+
+### 🧪 Hands-on Practice
+- Analyzed time and space complexity of search and sorting algorithms
+- Compared algorithm performance using empirical data
+- Evaluated trade-offs between different approaches (iterative vs recursive)
+- Applied Big-O analysis to real Java code samples
+
+### 🔗 Code Link
+- 👉 [Day 19 – Runtime Analysis of Algorithms & Big-O Notation](/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/complexityanalysis)
+
+---
+
 ✨ *More updates coming as I continue with my learnings...*
