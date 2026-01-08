@@ -68,12 +68,49 @@
 - Used HashMaps for frequency counting, lookups, and mappings
 - Practiced overriding `hashCode()` and `equals()` for custom key classes
 - Followed best practices for performance and correctness
-- Completed submissions and pushed all implementations to the repository
 
 ### 🔗 Code Link
 - 👉 [Day 16 – Stack](/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/stack)
 - 👉 [Day 16 – Queue](/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/queue)
 - 👉 [Day 16 – HashMap and Hashing Function](/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/hashmap)
+
+---
+
+## 📌 Day 17 – Sorting Algorithms
+**(Date: 5-Jan-2026)**
+
+### ✅ Overview
+- Learned fundamental **sorting algorithms** and their role in organizing data efficiently
+- Understood how different sorting techniques vary in approach, performance, and use cases
+- Analyzed time and space complexity to choose suitable algorithms
+- Applied sorting logic to solve real-world data ordering problems
+
+### 📘 Core Concepts Covered
+- Sorting fundamentals and importance
+- Comparison-based sorting algorithms:
+  - Bubble Sort
+  - Insertion Sort
+  - Selection Sort
+  - Merge Sort
+  - Quick Sort
+  - Heap Sort
+- Non-comparison-based sorting:
+  - Counting Sort
+  - Overview of Radix Sort and Bucket Sort
+- Divide and Conquer approach in sorting
+- Stability, in-place sorting, and complexity analysis (best, average, worst cases)
+
+### 🧪 Hands-on Practice
+- Implemented multiple sorting algorithms on arrays of primitive data
+- Solved practical problems such as sorting:
+  - Student marks and exam scores
+  - Employee IDs
+  - Book prices and product prices
+  - Salary expectations and age data
+- Compared algorithm performance based on input size and data distribution
+
+### 🔗 Code Link
+- 👉 [Day 17 – Sorting Algorithms](/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/sorting)
 
 ---
 
