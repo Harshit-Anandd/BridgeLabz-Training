@@ -114,4 +114,42 @@
 
 ---
 
+## 📌 Day 18 – Searching Algorithms, Stream Readers, File Reader, String Builder & String Buffer
+**(Date: 6-Jan-2026)**
+
+### ✅ Overview
+- Learned efficient **string handling** and **input/output techniques** in Java
+- Understood how **StringBuilder**, **StringBuffer**, and buffered streams improve performance
+- Explored **Linear Search** and **Binary Search** algorithms and their use cases
+- Applied best practices for file handling, searching, and performance optimization
+
+### 📘 Core Concepts Covered
+- String Handling:
+  - String immutability vs mutability
+  - StringBuilder for fast, single-threaded operations
+  - StringBuffer for thread-safe string manipulation
+- Java I/O:
+  - BufferedReader for efficient input
+  - FileReader for character-based file reading
+  - InputStreamReader for byte-to-character conversion with encoding control
+- Searching Algorithms:
+  - Linear Search and its applications on unsorted data
+  - Binary Search and its variants on sorted data
+  - Time and space complexity analysis
+- Best practices for performance, memory usage, and error handling
+
+### 🧪 Hands-on Practice
+- Implemented string manipulation programs such as reversal, duplication removal, and concatenation
+- Compared performance of StringBuilder vs StringBuffer
+- Read and processed files using BufferedReader, FileReader, and InputStreamReader
+- Solved practical search problems using Linear Search and Binary Search
+- Implemented advanced search scenarios like rotated arrays, peak elements, and word search
+
+### 🔗 Code Link
+- 👉 [Day 18 – Stream Readers & File Readers](/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/readers)
+- 👉 [Day 18 – Searching Algorithms](/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/searching)
+- 👉 [Day 18 – String Builder & String Buffer](/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/strings)
+
+---
+
 ✨ *More updates coming as I continue with my learnings...*
