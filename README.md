@@ -27,7 +27,7 @@
 - Committed and pushed the code to the repository
 
 ### 🔗 Code Link
-👉 [Day 9 – Introduction to OOP](/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops)
+- 👉 [Day 9 – Introduction to OOP](/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops)
 
 ---
 
@@ -54,9 +54,9 @@
 - Successfully committed and pushed all practice programs to the repository
 
 ### 🔗 Code Links
-👉 [Day 10 – Constructors](/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/constructors)
-👉 [Day 10 – Class Members](/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/instanceandclass)
-👉 [Day 10 – Access Modifiers](/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/accessmodifiers)
+- 👉 [Day 10 – Constructors](/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/constructors)
+- 👉 [Day 10 – Class Members](/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/instanceandclass)
+- 👉 [Day 10 – Access Modifiers](/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/accessmodifiers)
 
 ---
 
@@ -84,7 +84,7 @@
 - Committed and pushed all practice programs to the repository
 
 ### 🔗 Code Links
-👉 [Day 11 – this, static, final & instanceof](/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/inbuiltfunction)
+- 👉 [Day 11 – this, static, final & instanceof](/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/inbuiltfunction)
 
 ---
 
@@ -118,7 +118,7 @@
 - Submitted all diagram-based assignments and pushed them to the repository
 
 ### 🔗 Code Links
-👉 [Day 12 – Object Modelling and UML Diagrams](/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/objectmodelling)
+- 👉 [Day 12 – Object Modelling and UML Diagrams](/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/objectmodelling)
 
 ---
 
@@ -152,7 +152,7 @@
 - Applied inheritance design best practices to avoid tight coupling
 
 ### 🔗 Code Links
-👉 [Day 13 – Inheritance](/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/inheritance)
+- 👉 [Day 13 – Inheritance](/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/inheritance)
 
 ---
 
@@ -181,7 +181,7 @@
 - Completed submissions and pushed all implementations to the repository
 
 ### 🔗 Code Links
-👉 [Day 14 – Encapsulation, Polymorphism, Interface and Abstract Classes](/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/encapsulation)
+- 👉 [Day 14 – Encapsulation, Polymorphism, Interface and Abstract Classes](/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/encapsulation)
 
 ---
 
@@ -198,7 +198,7 @@
 - Strengthened ability to convert problem statements into clean OOP designs
 
 ### 🔗 Code Links
-👉 [Day 15 – Scenario-Based Problems](/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day01)
+- 👉 [Day 15 – Scenario-Based Problems](/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day01)
 
 ---
 
@@ -218,7 +218,7 @@
 - Strengthened ability to translate real-world requirements into clean OOP designs
 
 ### 🔗 Code Links
-👉 [Day 16 – Scenario-Based Problems](/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day02)
+- 👉 [Day 16 – Scenario-Based Problems](/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day02)
 
 ---
 
@@ -238,7 +238,7 @@
 - Strengthened ability to translate problem statements into clean OOP designs
 
 ### 🔗 Code Links
-👉 [Day 17 – Scenario-Based Problems](/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day03)
+- 👉 [Day 17 – Scenario-Based Problems](/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day03)
 
 ---
 
@@ -257,7 +257,7 @@
 - Strengthened ability to translate real-world requirements into clean, maintainable OOP solutions
 
 ### 🔗 Code Links
-👉 [Day 18 – Scenario-Based Problems](/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day04)
+- 👉 [Day 18 – Scenario-Based Problems](/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day04)
 
 ---
 
@@ -278,7 +278,7 @@
 - Strengthened ability to translate real-world requirements into clean, maintainable OOP designs
 
 ### 🔗 Code Links
-👉 [Day 19 – Scenario-Based Problems](/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day05)
+- 👉 [Day 19 – Scenario-Based Problems](/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day05)
 
 ---
 
