@@ -567,7 +567,7 @@
 
 ---
 
-## 📅 Week 3: Data Structures and Algorithms
+# 📅 Week 3: Data Structures and Algorithms
 
 ---
 
