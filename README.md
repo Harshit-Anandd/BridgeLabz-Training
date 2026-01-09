@@ -304,7 +304,7 @@
 ## 📌 Day 8 – Solved Scenario-Based Problems
 **(Date: 24-Dec-2025)**
 
-### 🧩 Scenario-Based Problems (OOP Practice)
+### 🧩 Scenario-Based Problems (Core Java Practice)
 - Solved real-world **scenario-based Java problems** focused on applying Core Java fundamentals
 - Practiced converting problem statements into structured program logic
 - Applied concepts including:
@@ -325,6 +325,91 @@
 
 ### 🔗 Code Links
 - 👉 [Day 8 – Scenario-Based Problems](/scenario-based-codebase/day-01)
+
+---
+
+## 📌 Day 9 – Solved Scenario-Based Problems
+**(Date: 26-Dec-2025)**
+
+### 🧩 Scenario-Based Problems (Core Java Practice)
+- Solved **Core Java scenario-based problems** focused on logic building and control flow
+- Applied conditionals (`if`, ternary, `switch`) and loops (`for`, `while`)
+- Implemented real-world scenarios:
+  - **Election Booth Manager**: voter eligibility check, vote recording, looping for multiple voters
+  - **Metro Smart Card System**: fare calculation using ternary operator and balance management
+  - **Result Generator**: average calculation and grade assignment using loops and switch
+- Practiced user input handling with `Scanner`
+- Followed clean coding practices with meaningful variables, proper structure, and comments
+- Strengthened ability to convert real-world problems into structured Core Java solutions
+
+
+### 🔗 Code Links
+- 👉 [Day 9 – Scenario-Based Problems](/scenario-based-codebase/day-02)
+
+---
+
+## 📌 Day 11 – Solved Scenario-Based Problems
+**(Date: 29-Dec-2025)**
+
+### 🧩 Scenario-Based Problems (Core Java Practice)
+- Solved real-world **Core Java scenario-based problems** to strengthen logical thinking
+- Applied:
+  - Variables and primitive data types
+  - User input handling using `Scanner`
+  - Arithmetic and logical operators
+  - Conditional logic using `if`, `else`, ternary, and `switch`
+  - Looping constructs such as `while` and `for`
+  - Control flow using `break` and `continue`
+- Implemented scenarios including:
+  - **Coffee Counter System**: order processing, billing with GST, and continuous customer handling using loops
+  - **BMI Fitness Tracker**: BMI calculation and category classification using conditional statements
+- Emphasized clean coding practices:
+  - Meaningful variable names
+  - Proper indentation and comments
+  - Readable and structured program flow
+
+### 🔗 Code Links
+- 👉 [Day 11 – Scenario-Based Problems](/scenario-based-codebase/day-03)
+
+---
+
+## 📌 Day 12 – Solved Scenario-Based Problems
+**(Date: 30-Dec-2025)**
+
+### 🧩 Scenario-Based Problems (Core Java Practice)
+- Solved **real-world Core Java scenario-based problems** focused on logic building and control flow
+- Applied arrays, conditionals, loops, and control statements in practical contexts
+- Implemented scenarios such as:
+  - **Temperature Logger**: stored weekly temperatures, calculated average and maximum using arrays and loops
+  - **Train Reservation Queue**: simulated ticket booking using switch, while-loop, and break condition
+  - **Fitness Challenge Tracker**: tracked weekly activity using for-each loop and continue for rest days
+  - **Movie Ticket Booking App**: handled customer inputs with switch and if, looping through multiple users
+  - **Library Fine Calculator**: computed late return fines using date comparison and for-loop
+- Practiced clean coding standards with meaningful variable names, modular logic, and readable structure
+- Strengthened ability to translate everyday scenarios into structured Core Java programs
+
+### 🔗 Code Links
+- 👉 [Day 12 – Scenario-Based Problems](/scenario-based-codebase/day-04)
+
+---
+
+## 📌 Day 13 – Solved Scenario-Based Problems
+**(Date: 31-Dec-2025)**
+
+### 🧩 Scenario-Based Problems (Core Java Practice)
+- Solved **Core Java scenario-based problems** focused on control flow, loops, and user interaction
+- Applied nested loops, conditional logic, and loop control statements effectively
+- Implemented scenarios such as:
+  - **Digital Watch Simulation**: simulated a 24-hour clock using nested loops with a manual break condition
+  - **Online Quiz Application**: handled MCQs using arrays, loops, switch-case logic, and score tracking
+  - **Currency Exchange Kiosk**: converted currencies using switch-case and repeated execution with do-while
+  - **Bus Route Distance Tracker**: accumulated distance using while-loop with user-driven exit
+  - **Festival Lucky Draw**: applied conditional checks with modulus, looped for multiple users, and skipped invalid inputs using continue
+- Practiced clean coding principles with proper indentation, meaningful variable names, and modular logic
+- Strengthened ability to model interactive, real-world scenarios using Core Java constructs
+
+### 🔗 Code Links
+- 👉 [Day 13 – Scenario-Based Problems](/scenario-based-codebase/day-05)
 
 ---
 
