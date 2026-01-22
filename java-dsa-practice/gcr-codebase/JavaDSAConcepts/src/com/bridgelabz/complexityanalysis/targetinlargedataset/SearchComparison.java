@@ -1,8 +1,5 @@
 package com.bridgelabz.complexityanalysis.targetinlargedataset;
 
-import java.util.Arrays;
-import java.util.Random;
-
 public class SearchComparison {
     
     // Linear Search: O(N)
