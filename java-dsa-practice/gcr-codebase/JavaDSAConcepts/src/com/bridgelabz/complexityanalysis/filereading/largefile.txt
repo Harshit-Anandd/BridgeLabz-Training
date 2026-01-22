@@ -1,0 +1,3176 @@
+git add gcr-codebase/control-flows/level-three/HarshadNumber.java
+git commit -m "[Harshit Anandd] : added HarshadNumber.java in level-three"
+git push origin core-java-practice
+git status
+git add gcr-codebase/control-flows/level-three/DayOfWeek.java
+git commit -m "[Harshit Anandd] : added DayOfWeek.java in level-three"
+git push origin core-java-practice
+git status
+git add gcr-codebase/control-flows/level-three/CountDigits.java
+git commit -m "[Harshit Anandd] : added CountDigits.java in level-three"
+git push origin core-java-practice
+git status
+git add gcr-codebase/control-flows/level-three/CalculatorSwitch.java
+git commit -m "[Harshit Anandd] : added CalculatorSwitch.java in level-three"
+git push origin core-java-practice
+git status
+git add gcr-codebase/control-flows/level-three/BMICalculator.java
+git commit -m "[Harshit Anandd] : added BMICalculator.java in level-three"
+git push origin core-java-practice
+git status
+git add gcr-codebase/control-flows/level-three/ArmstrongNumber.java
+git commit -m "[Harshit Anandd] : added ArmstrongNumber.java in level-three"
+git push origin core-java-practice
+git status
+
+
+
+
+git status
+git add gcr-codebase/arrays/level-one/FizzBuzz.java
+git status
+git commit -m "[Harshit Anandd] : added FizzBuzz.java in level-one"
+git push origin core-java-practice
+git status
+
+
+//commands to execute for arrays level-one
+
+git add gcr-codebase/arrays/level-one/FactorsArray.java
+git status
+git commit -m "[Harshit Anandd] : added FactorsArray.java in level-one"
+git push origin core-java-practice
+git status
+git add gcr-codebase/arrays/level-one/MatrixToArray.java
+git status
+git commit -m "[Harshit Anandd] : added MatrixToArray.java in level-one"
+git push origin core-java-practice
+git status
+git add gcr-codebase/arrays/level-one/MeanHeight.java
+git status
+git commit -m "[Harshit Anandd] : added MeanHeight.java in level-one"
+git push origin core-java-practice
+git status
+git add gcr-codebase/arrays/level-one/MultiplicationTable.java
+git status
+git commit -m "[Harshit Anandd] : added MultiplicationTable.java in level-one"
+git push origin core-java-practice
+git status
+git add gcr-codebase/arrays/level-one/MultiplicationTableRange.java
+git status
+git commit -m "[Harshit Anandd] : added MultiplicationTableRange.java in level-one"
+git push origin core-java-practice
+git status
+git add gcr-codebase/arrays/level-one/NumberAnalysis.java
+git status
+git commit -m "[Harshit Anandd] : added NumberAnalysis.java in level-one"
+git push origin core-java-practice
+git status
+git add gcr-codebase/arrays/level-one/OddEvenArrays.java
+git status
+git commit -m "[Harshit Anandd] : added OddEvenArrays.java in level-one"
+git push origin core-java-practice
+git status
+git add gcr-codebase/arrays/level-one/SumOfNumbers.java
+git status
+git commit -m "[Harshit Anandd] : added SumOfNumbers.java in level-one"
+git push origin core-java-practice
+git status
+git add gcr-codebase/arrays/level-one/VotingEligibility.java
+git status
+git commit -m "[Harshit Anandd] : added VotingEligibility.java in level-one"
+git push origin core-java-practice
+git status
+
+//commands to execute for arrays level-two
+
+git status
+git add gcr-codebase/arrays/level-two/BMICalculator.java
+git status
+git commit -m "[Harshit Anandd] : added BMICalculator.java in level-two"
+git push origin core-java-practice
+git status
+git add gcr-codebase/arrays/level-two/BMICalculator2D.java
+git status
+git commit -m "[Harshit Anandd] : added BMICalculator2D.java in level-two"
+git push origin core-java-practice
+git status
+git add gcr-codebase/arrays/level-two/DigitFrequency.java
+git status
+git commit -m "[Harshit Anandd] : added DigitFrequency.java in level-two"
+git push origin core-java-practice
+git status
+git add gcr-codebase/arrays/level-two/EmployeeBonus.java
+git status
+git commit -m "[Harshit Anandd] : added EmployeeBonus.java in level-two"
+git push origin core-java-practice
+git status
+git add gcr-codebase/arrays/level-two/FriendsComparison.java
+git status
+git commit -m "[Harshit Anandd] : added FriendsComparison.java in level-two"
+git push origin core-java-practice
+git status
+git add gcr-codebase/arrays/level-two/LargestDigitsDynamic.java
+git status
+git commit -m "[Harshit Anandd] : added LargestDigitsDynamic.java in level-two"
+git push origin core-java-practice
+git status
+git add gcr-codebase/arrays/level-two/ReverseNumber.java
+git status
+git commit -m "[Harshit Anandd] : added ReverseNumber.java in level-two"
+git push origin core-java-practice
+git status
+git add gcr-codebase/arrays/level-two/StudentGrades.java
+git status
+git commit -m "[Harshit Anandd] : added StudentGrades.java in level-two"
+git push origin core-java-practice
+git status
+git add .
+git status
+git commit -m "[Harshit Anandd] : added StudentGrades2D.java in level-two"
+git push origin core-java-practice
+
+
+// methods push commands
+
+git status
+git add gcr-codebase/methods/level-one/ChocolateDistribution.java
+git status
+git commit -m "[Harshit Anandd] : added ChocolateDistribution.java in level-one"
+git push origin core-java-practice
+
+git status
+git add gcr-codebase/methods/level-one/Handshakes.java
+git status
+git commit -m "[Harshit Anandd] : added Handshakes.java in level-one"
+git push origin core-java-practice
+
+git status
+git add gcr-codebase/methods/level-one/NaturalNumberSum.java
+git status
+git commit -m "[Harshit Anandd] : added NaturalNumberSum.java in level-one"
+git push origin core-java-practice
+
+git status
+git add gcr-codebase/methods/level-one/NumberCheck.java
+git status
+git commit -m "[Harshit Anandd] : added NumberCheck.java in level-one"
+git push origin core-java-practice
+git status
+git add gcr-codebase/methods/level-one/QuotientRemainder.java
+git status
+git commit -m "[Harshit Anandd] : added QuotientRemainder.java in level-one"
+git push origin core-java-practice
+git status
+git add gcr-codebase/methods/level-one/SimpleInterest.java
+git status
+git commit -m "[Harshit Anandd] : added SimpleInterest.java in level-one"
+git push origin core-java-practice
+git status
+git add gcr-codebase/methods/level-one/SmallestLargest.java
+git status
+git commit -m "[Harshit Anandd] : added SmallestLargest.java in level-one"
+git push origin core-java-practice
+git status
+git add gcr-codebase/methods/level-one/SpringSeason.java
+git status
+git commit -m "[Harshit Anandd] : added SpringSeason.java in level-one"
+git push origin core-java-practice
+git status
+git add gcr-codebase/methods/level-one/TriangularPark.java
+git status
+git commit -m "[Harshit Anandd] : added TriangularPark.java in level-one"
+git push origin core-java-practice
+git status
+git add gcr-codebase/methods/level-one/TrigonometricFunctions.java
+git status
+git commit -m "[Harshit Anandd] : added TrigonometricFunctions.java in level-one"
+git push origin core-java-practice
+git status
+git add gcr-codebase/methods/level-one/WindChill.java
+git status
+git commit -m "[Harshit Anandd] : added WindChill.java in level-one"
+git push origin core-java-practice
+
+git status
+git add gcr-codebase/methods/level-two/BMICalculator.java
+git status
+git commit -m "[Harshit Anandd] : added BMICalculator.java in level-two"
+git push origin core-java-practice
+
+git status
+git add gcr-codebase/methods/level-two/FactorsCalculator.java
+git status
+git commit -m "[Harshit Anandd] : added FactorsCalculator.java in level-two"
+git push origin core-java-practice
+git status
+git add gcr-codebase/methods/level-two/FriendsComparison.java
+git status
+git commit -m "[Harshit Anandd] : added FriendsComparison.java in level-two"
+git push origin core-java-practice
+git status
+git add gcr-codebase/methods/level-two/LeapYear.java
+git status
+git commit -m "[Harshit Anandd] : added LeapYear.java in level-two"
+git push origin core-java-practice
+git status
+git add gcr-codebase/methods/level-two/NaturalNumbersSum.java
+git status
+git commit -m "[Harshit Anandd] : added NaturalNumbersSum.java in level-two"
+git push origin core-java-practice
+git status
+git add gcr-codebase/methods/level-two/NumberAnalysis.java
+git status
+git commit -m "[Harshit Anandd] : added NumberAnalysis.java in level-two"
+git push origin core-java-practice
+git status
+git add gcr-codebase/methods/level-two/QuadraticEquation.java
+git status
+git commit -m "[Harshit Anandd] : added QuadraticEquation.java in level-two"
+git push origin core-java-practice
+git status
+git add gcr-codebase/methods/level-two/RandomNumber.java
+git status
+git commit -m "[Harshit Anandd] : added RandomNumber.java in level-two"
+git push origin core-java-practice
+git status
+git add gcr-codebase/methods/level-two/StudentVoteChecker.java
+git status
+git commit -m "[Harshit Anandd] : added StudentVoteChecker.java in level-two"
+git push origin core-java-practice
+git status
+git add gcr-codebase/methods/level-two/UnitConvertor1.java
+git status
+git commit -m "[Harshit Anandd] : added UnitConvertor1.java in level-two"
+git push origin core-java-practice
+git status
+git add gcr-codebase/methods/level-two/UnitConvertor2.java
+git status
+git commit -m "[Harshit Anandd] : added UnitConvertor2.java in level-two"
+git push origin core-java-practice
+git status
+git add gcr-codebase/methods/level-two/UnitConvertor3.java
+git status
+git commit -m "[Harshit Anandd] : added UnitConvertor3.java in level-two"
+git push origin core-java-practice
+
+
+
+git status
+git add gcr-codebase/methods/level-three/Bonus.java
+git status
+git commit -m "[Harshit Anandd] : added Bonus.java in level-three"
+git push origin core-java-practice
+
+git status
+git add gcr-codebase/methods/level-three/Calendar.java
+git status
+git commit -m "[Harshit Anandd] : added Calendar.java in level-three"
+git push origin core-java-practice
+git status
+git add gcr-codebase/methods/level-three/CollinearPoints.java
+git status
+git commit -m "[Harshit Anandd] : added CollinearPoints.java in level-three"
+git push origin core-java-practice
+git status
+git add gcr-codebase/methods/level-three/FactorsOperations.java
+git status
+git commit -m "[Harshit Anandd] : added FactorsOperations.java in level-three"
+git push origin core-java-practice
+git status
+git add gcr-codebase/methods/level-three/FootballTeam.java
+git status
+git commit -m "[Harshit Anandd] : added FootballTeam.java in level-three"
+git push origin core-java-practice
+git status
+git add gcr-codebase/methods/level-three/LineGeometry.java
+git status
+git commit -m "[Harshit Anandd] : added LineGeometry.java in level-three"
+git push origin core-java-practice
+git status
+git add gcr-codebase/methods/level-three/MatrixAdvanced.java
+git status
+git commit -m "[Harshit Anandd] : added MatrixAdvanced.java in level-three"
+git push origin core-java-practice
+git status
+git add gcr-codebase/methods/level-three/MatrixBasic.java
+git status
+git commit -m "[Harshit Anandd] : added MatrixBasic.java in level-three"
+git push origin core-java-practice
+git status
+git add gcr-codebase/methods/level-three/NumberCheckerFive.java
+git status
+git commit -m "[Harshit Anandd] : added NumberCheckerFive.java in level-three"
+git push origin core-java-practice
+git status
+git add gcr-codebase/methods/level-three/NumberCheckerFour.java
+git status
+git commit -m "[Harshit Anandd] : added NumberCheckerFour.java in level-three"
+git push origin core-java-practice
+git status
+git add gcr-codebase/methods/level-three/NumberCheckerOne.java
+git status
+git commit -m "[Harshit Anandd] : added NumberCheckerOne.java in level-three"
+git push origin core-java-practice
+git status
+git add gcr-codebase/methods/level-three/NumberCheckerThree.java
+git status
+git commit -m "[Harshit Anandd] : added NumberCheckerThree.java in level-three"
+git push origin core-java-practice
+git status
+git add gcr-codebase/methods/level-three/NumberCheckerTwo.java
+git status
+git commit -m "[Harshit Anandd] : added NumberCheckerTwo.java in level-three"
+git push origin core-java-practice
+git status
+git add gcr-codebase/methods/level-three/OTPGenerator.java
+git status
+git commit -m "[Harshit Anandd] : added OTPGenerator.java in level-three"
+git push origin core-java-practice
+git status
+git add gcr-codebase/methods/level-three/Scorecard.java
+git status
+git commit -m "[Harshit Anandd] : added Scorecard.java in level-three"
+git push origin core-java-practice
+
+
+// string push commands
+
+
+git status
+git add gcr-codebase/string/level-one/ArrayIndexDemo.java
+git status
+git commit -m "[Harshit Anandd] : added ArrayIndexDemo.java in level-one"
+git push origin core-java-practice
+
+
+git status
+git add gcr-codebase/string/level-one/CharArrayCreator.java
+git status
+git commit -m "[Harshit Anandd] : added CharArrayCreator.java in level-one"
+git push origin core-java-practice
+git status
+git add gcr-codebase/string/level-one/IllegalArgumentDemo.java
+git status
+git commit -m "[Harshit Anandd] : added IllegalArgumentDemo.java in level-one"
+git push origin core-java-practice
+git status
+git add gcr-codebase/string/level-one/IndexOutOfBoundsDemo.java
+git status
+git commit -m "[Harshit Anandd] : added IndexOutOfBoundsDemo.java in level-one"
+git push origin core-java-practice
+git status
+git add gcr-codebase/string/level-one/LowercaseConverter.java
+git status
+git commit -m "[Harshit Anandd] : added LowercaseConverter.java in level-one"
+git push origin core-java-practice
+git status
+git add gcr-codebase/string/level-one/NullPointerDemo.java
+git status
+git commit -m "[Harshit Anandd] : added NullPointerDemo.java in level-one"
+git push origin core-java-practice
+git status
+git add gcr-codebase/string/level-one/NumberFormatDemo.java
+git status
+git commit -m "[Harshit Anandd] : added NumberFormatDemo.java in level-one"
+git push origin core-java-practice
+git status
+git add gcr-codebase/string/level-one/StringComparison.java
+git status
+git commit -m "[Harshit Anandd] : added StringComparison.java in level-one"
+git push origin core-java-practice
+git status
+git add gcr-codebase/string/level-one/SubstringCreator.java
+git status
+git commit -m "[Harshit Anandd] : added SubstringCreator.java in level-one"
+git push origin core-java-practice
+git status
+git add gcr-codebase/string/level-one/UppercaseConverter.java
+git status
+git commit -m "[Harshit Anandd] : added UppercaseConverter.java in level-one"
+git push origin core-java-practice
+
+
+
+git status
+git add gcr-codebase/string/level-two/CharTypeIdentifier.java
+git status
+git commit -m "[Harshit Anandd] : added CharTypeIdentifier.java in level-two"
+git push origin core-java-practice
+
+
+git status
+git add gcr-codebase/string/level-two/RockPaperScissors.java
+git status
+git commit -m "[Harshit Anandd] : added RockPaperScissors.java in level-two"
+git push origin core-java-practice
+git status
+git add gcr-codebase/string/level-two/SplitText.java
+git status
+git commit -m "[Harshit Anandd] : added SplitText.java in level-two"
+git push origin core-java-practice
+git status
+git add gcr-codebase/string/level-two/StringExtremes.java
+git status
+git commit -m "[Harshit Anandd] : added StringExtremes.java in level-two"
+git push origin core-java-practice
+git status
+git add gcr-codebase/string/level-two/StringLength.java
+git status
+git commit -m "[Harshit Anandd] : added StringLength.java in level-two"
+git push origin core-java-practice
+git status
+git add gcr-codebase/string/level-two/StudentGrades.java
+git status
+git commit -m "[Harshit Anandd] : added StudentGrades.java in level-two"
+git push origin core-java-practice
+git status
+git add gcr-codebase/string/level-two/TrimString.java
+git status
+git commit -m "[Harshit Anandd] : added TrimString.java in level-two"
+git push origin core-java-practice
+git status
+git add gcr-codebase/string/level-two/VotingChecker.java
+git status
+git commit -m "[Harshit Anandd] : added VotingChecker.java in level-two"
+git push origin core-java-practice
+git status
+git add gcr-codebase/string/level-two/VowelConsonantCounter.java
+git status
+git commit -m "[Harshit Anandd] : added VowelConsonantCounter.java in level-two"
+git push origin core-java-practice
+git status
+git add gcr-codebase/string/level-two/WordLengthAnalyzer.java
+git status
+git commit -m "[Harshit Anandd] : added WordLengthAnalyzer.java in level-two"
+git push origin core-java-practice
+
+
+git status
+git add gcr-codebase/string/level-three/AnagramCheck.java
+git status
+git commit -m "[Harshit Anandd] : added AnagramCheck.java in level-three"
+git push origin core-java-practice
+
+
+git status
+git add gcr-codebase/string/level-three/BMICalculator.java
+git status
+git commit -m "[Harshit Anandd] : added BMICalculator.java in level-three"
+git push origin core-java-practice
+git status
+git add gcr-codebase/string/level-three/CalendarDisplay.java
+git status
+git commit -m "[Harshit Anandd] : added CalendarDisplay.java in level-three"
+git push origin core-java-practice
+git status
+git add gcr-codebase/string/level-three/CharFrequencyASCII.java
+git status
+git commit -m "[Harshit Anandd] : added CharFrequencyASCII.java in level-three"
+git push origin core-java-practice
+git status
+git add gcr-codebase/string/level-three/CharFrequencyNested.java
+git status
+git commit -m "[Harshit Anandd] : added CharFrequencyNested.java in level-three"
+git push origin core-java-practice
+git status
+git add gcr-codebase/string/level-three/CharFrequencyUnique.java
+git status
+git commit -m "[Harshit Anandd] : added CharFrequencyUnique.java in level-three"
+git push origin core-java-practice
+git status
+git add gcr-codebase/string/level-three/DeckOfCards.java
+git status
+git commit -m "[Harshit Anandd] : added DeckOfCards.java in level-three"
+git push origin core-java-practice
+git status
+git add gcr-codebase/string/level-three/FirstNonRepeating.java
+git status
+git commit -m "[Harshit Anandd] : added FirstNonRepeating.java in level-three"
+git push origin core-java-practice
+git status
+git add gcr-codebase/string/level-three/PalindromeCheck.java
+git status
+git commit -m "[Harshit Anandd] : added PalindromeCheck.java in level-three"
+git push origin core-java-practice
+git status
+git add gcr-codebase/string/level-three/UniqueChars.java
+git status
+git commit -m "[Harshit Anandd] : added UniqueChars.java in level-three"
+git push origin core-java-practice
+
+
+
+git status
+git add gcr-codebase/extras/built-in-functions/BasicCalculator.java
+git status
+git commit -m "[Harshit Anandd] : added BasicCalculator.java in built-in-functions"
+
+
+git status
+git add gcr-codebase/extras/built-in-functions/ComputerGuessingGame.java
+git status
+git commit -m "[Harshit Anandd] : added ComputerGuessingGame.java in built-in-functions"
+git push origin core-java-practice
+git status
+git add gcr-codebase/extras/built-in-functions/FibonacciGenerator.java
+git status
+git commit -m "[Harshit Anandd] : added FibonacciGenerator.java in built-in-functions"
+git push origin core-java-practice
+git status
+git add gcr-codebase/extras/built-in-functions/GcdLcmCalculator.java
+git status
+git commit -m "[Harshit Anandd] : added GcdLcmCalculator.java in built-in-functions"
+git push origin core-java-practice
+git status
+git add gcr-codebase/extras/built-in-functions/GeneralPalindrome.java
+git status
+git commit -m "[Harshit Anandd] : added GeneralPalindrome.java in built-in-functions"
+git push origin core-java-practice
+git status
+git add gcr-codebase/extras/built-in-functions/MaxOfThree.java
+git status
+git commit -m "[Harshit Anandd] : added MaxOfThree.java in built-in-functions"
+git push origin core-java-practice
+git status
+git add gcr-codebase/extras/built-in-functions/PrimeChecker.java
+git status
+git commit -m "[Harshit Anandd] : added PrimeChecker.java in built-in-functions"
+git push origin core-java-practice
+git status
+git add gcr-codebase/extras/built-in-functions/RecursiveFactorial.java
+git status
+git commit -m "[Harshit Anandd] : added RecursiveFactorial.java in built-in-functions"
+git push origin core-java-practice
+git status
+git add gcr-codebase/extras/built-in-functions/TemperatureConverter.java
+git status
+git commit -m "[Harshit Anandd] : added TemperatureConverter.java in built-in-functions"
+git push origin core-java-practice
+
+
+
+git status
+git add gcr-codebase/extras/date-and-time/DateArithmetic.java
+git status
+git commit -m "[Harshit Anandd] : added DateArithmetic.java in date-and-time"
+git push origin core-java-practice
+
+
+
+git status
+git add gcr-codebase/extras/date-and-time/DateComparison.java
+git status
+git commit -m "[Harshit Anandd] : added DateComparison.java in date-and-time"
+git push origin core-java-practice
+git status
+git add gcr-codebase/extras/date-and-time/DateFormatting.java
+git status
+git commit -m "[Harshit Anandd] : added DateFormatting.java in date-and-time"
+git push origin core-java-practice
+git status
+git add gcr-codebase/extras/date-and-time/TimeZoneDisplay.java
+git status
+git commit -m "[Harshit Anandd] : added TimeZoneDisplay.java in date-and-time"
+git push origin core-java-practice
+
+
+
+git status
+git add gcr-codebase/extras/string-handling/AnagramChecker.java
+git status
+git commit -m "[Harshit Anandd] : added AnagramChecker.java in string-handling"
+git push origin core-java-practice
+
+
+
+git status
+git add gcr-codebase/extras/string-handling/CaseToggler.java
+git status
+git commit -m "[Harshit Anandd] : added CaseToggler.java in string-handling"
+git push origin core-java-practice
+git status
+git add gcr-codebase/extras/string-handling/CharRemover.java
+git status
+git commit -m "[Harshit Anandd] : added CharRemover.java in string-handling"
+git push origin core-java-practice
+git status
+git add gcr-codebase/extras/string-handling/DuplicateRemover.java
+git status
+git commit -m "[Harshit Anandd] : added DuplicateRemover.java in string-handling"
+git push origin core-java-practice
+git status
+git add gcr-codebase/extras/string-handling/FrequentCharFinder.java
+git status
+git commit -m "[Harshit Anandd] : added FrequentCharFinder.java in string-handling"
+git push origin core-java-practice
+git status
+git add gcr-codebase/extras/string-handling/LongestWordFinder.java
+git status
+git commit -m "[Harshit Anandd] : added LongestWordFinder.java in string-handling"
+git push origin core-java-practice
+git status
+git add gcr-codebase/extras/string-handling/PalindromeCheck.java
+git status
+git commit -m "[Harshit Anandd] : added PalindromeCheck.java in string-handling"
+git push origin core-java-practice
+git status
+git add gcr-codebase/extras/string-handling/StringComparator.java
+git status
+git commit -m "[Harshit Anandd] : added StringComparator.java in string-handling"
+git push origin core-java-practice
+git status
+git add gcr-codebase/extras/string-handling/StringReverser.java
+git status
+git commit -m "[Harshit Anandd] : added StringReverser.java in string-handling"
+git push origin core-java-practice
+git status
+git add gcr-codebase/extras/string-handling/SubstringCounter.java
+git status
+git commit -m "[Harshit Anandd] : added SubstringCounter.java in string-handling"
+git push origin core-java-practice
+git status
+git add gcr-codebase/extras/string-handling/VowelConsonantCounter.java
+git status
+git commit -m "[Harshit Anandd] : added VowelConsonantCounter.java in string-handling"
+git push origin core-java-practice
+git status
+git add gcr-codebase/extras/string-handling/WordReplacer.java
+git status
+git commit -m "[Harshit Anandd] : added WordReplacer.java in string-handling"
+git push origin core-java-practice
+
+
+
+
+git status
+git add leet-code-codebase/arrays/BuyAndSellStocks.java
+git status
+git commit -m "[Harshit Anandd] : added BuyAndSellStocks.java in arrays"
+git push origin core-java-practice
+git status
+git add leet-code-codebase/arrays/ContainsDuplicate.java
+git status
+git commit -m "[Harshit Anandd] : added ContainsDuplicate.java in arrays"
+git push origin core-java-practice
+git status
+git add leet-code-codebase/arrays/IntersectionOfTwoArrays.java
+git status
+git commit -m "[Harshit Anandd] : added IntersectionOfTwoArrays.java in arrays"
+git push origin core-java-practice
+git status
+git add leet-code-codebase/arrays/MajorityElement.java
+git status
+git commit -m "[Harshit Anandd] : added MajorityElement.java in arrays"
+git push origin core-java-practice
+git status
+git add leet-code-codebase/arrays/MissingNumber.java
+git status
+git commit -m "[Harshit Anandd] : added MissingNumber.java in arrays"
+git push origin core-java-practice
+git status
+git add leet-code-codebase/arrays/MoveZeroes.java
+git status
+git commit -m "[Harshit Anandd] : added MoveZeroes.java in arrays"
+git push origin core-java-practice
+git status
+git add leet-code-codebase/arrays/PlusOne.java
+git status
+git commit -m "[Harshit Anandd] : added PlusOne.java in arrays"
+git push origin core-java-practice
+git status
+git add leet-code-codebase/arrays/RemoveDuplicates.java
+git status
+git commit -m "[Harshit Anandd] : added RemoveDuplicates.java in arrays"
+git push origin core-java-practice
+git status
+git add leet-code-codebase/arrays/SingleNumber.java
+git status
+git commit -m "[Harshit Anandd] : added SingleNumber.java in arrays"
+git push origin core-java-practice
+git status
+git add leet-code-codebase/arrays/TwoSum.java
+git status
+git commit -m "[Harshit Anandd] : added TwoSum.java in arrays"
+git push origin core-java-practice
+
+
+git status
+git add leet-code-codebase/strings/CountAndSay.java
+git status
+git commit -m "[Harshit Anandd] : added CountAndSay.java in strings"
+git push origin core-java-practice
+git status
+git add leet-code-codebase/strings/FirstUniqueCharacter.java
+git status
+git commit -m "[Harshit Anandd] : added FirstUniqueCharacter.java in strings"
+git push origin core-java-practice
+git status
+git add leet-code-codebase/strings/IndexOfFirstOccurrence.java
+git status
+git commit -m "[Harshit Anandd] : added IndexOfFirstOccurrence.java in strings"
+git push origin core-java-practice
+git status
+git add leet-code-codebase/strings/LongestCommonPrefix.java
+git status
+git commit -m "[Harshit Anandd] : added LongestCommonPrefix.java in strings"
+git push origin core-java-practice
+git status
+git add leet-code-codebase/strings/ReverseInteger.java
+git status
+git commit -m "[Harshit Anandd] : added ReverseInteger.java in strings"
+git push origin core-java-practice
+git status
+git add leet-code-codebase/strings/ReverseString.java
+git status
+git commit -m "[Harshit Anandd] : added ReverseString.java in strings"
+git push origin core-java-practice
+git status
+git add leet-code-codebase/strings/RomanToInteger.java
+git status
+git commit -m "[Harshit Anandd] : added RomanToInteger.java in strings"
+git push origin core-java-practice
+git status
+git add leet-code-codebase/strings/ValidAnagram.java
+git status
+git commit -m "[Harshit Anandd] : added ValidAnagram.java in strings"
+git push origin core-java-practice
+git status
+git add leet-code-codebase/strings/ValidPalindrome.java
+git status
+git commit -m "[Harshit Anandd] : added ValidPalindrome.java in strings"
+git push origin core-java-practice
+git status
+git add leet-code-codebase/strings/ValidParentheses.java
+git status
+git commit -m "[Harshit Anandd] : added ValidParentheses.java in strings"
+git push origin core-java-practice
+
+
+
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/levelone/Circle.java
+git status
+git commit -m "[Harshit Anandd] : added Circle.java in level one"
+git push origin java-oops-practice
+
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/levelone/Employee.java
+git status
+git commit -m "[Harshit Anandd] : added Employee.java in level one"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/levelone/HandBook.java
+git status
+git commit -m "[Harshit Anandd] : added HandBook.java in level one"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/levelone/Items.java
+git status
+git commit -m "[Harshit Anandd] : added Items.java in level one"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/levelone/MobilePhone.java
+git status
+git commit -m "[Harshit Anandd] : added MobilePhone.java in level one"
+git push origin java-oops-practice
+
+
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/leveltwo/BankAccount.java
+git status
+git commit -m "[Harshit Anandd] : added BankAccount.java in level two"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/leveltwo/CartItem.java
+git status
+git commit -m "[Harshit Anandd] : added CartItem.java in level two"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/leveltwo/MovieTicket.java
+git status
+git commit -m "[Harshit Anandd] : added MovieTicket.java in level two"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/leveltwo/PalindromeChecker.java
+git status
+git commit -m "[Harshit Anandd] : added PalindromeChecker.java in level two"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/leveltwo/StudentsGrades.java
+git status
+git commit -m "[Harshit Anandd] : added StudentsGrades.java in level two"
+git push origin java-oops-practice
+
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/instanceandclass/levelone/Course.java
+git status
+git commit -m "[Harshit Anandd] : added Course.java in level one"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/instanceandclass/levelone/Product.java
+git status
+git commit -m "[Harshit Anandd] : added Product.java in level one"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/instanceandclass/levelone/Vehicle.java
+git status
+git commit -m "[Harshit Anandd] : added Vehicle.java in level one"
+git push origin java-oops-practice
+
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/constructors/levelone/Book.java
+git status
+git commit -m "[Harshit Anandd] : added Book.java in level one"
+git push origin java-oops-practice
+
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/constructors/levelone/CarRental.java
+git status
+git commit -m "[Harshit Anandd] : added CarRental.java in level one"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/constructors/levelone/Circle.java
+git status
+git commit -m "[Harshit Anandd] : added Circle.java in level one"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/constructors/levelone/HotelBooking.java
+git status
+git commit -m "[Harshit Anandd] : added HotelBooking.java in level one"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/constructors/levelone/LibraryBook.java
+git status
+git commit -m "[Harshit Anandd] : added LibraryBook.java in level one"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/constructors/levelone/Person.java
+git status
+git commit -m "[Harshit Anandd] : added Person.java in level one"
+git push origin java-oops-practice
+
+
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/accessmodifiers/levelone/BankAccount.java
+git status
+git commit -m "[Harshit Anandd] : added BankAccount.java in level one"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/accessmodifiers/levelone/Book.java
+git status
+git commit -m "[Harshit Anandd] : added Book.java in level one"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/accessmodifiers/levelone/EBook.java
+git status
+git commit -m "[Harshit Anandd] : added EBook.java in level one"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/accessmodifiers/levelone/Employee.java
+git status
+git commit -m "[Harshit Anandd] : added Employee.java in level one"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/accessmodifiers/levelone/Manager.java
+git status
+git commit -m "[Harshit Anandd] : added Manager.java in level one"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/accessmodifiers/levelone/PostgraduateStudent.java
+git status
+git commit -m "[Harshit Anandd] : added PostgraduateStudent.java in level one"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/accessmodifiers/levelone/SavingsAccount.java
+git status
+git commit -m "[Harshit Anandd] : added SavingsAccount.java in level one"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/accessmodifiers/levelone/Student.java
+git status
+git commit -m "[Harshit Anandd] : added Student.java in level one"
+git push origin java-oops-practice
+
+
+
+
+git status
+git add scenario-based-codebase/day-03/BusAttendance.java
+git status
+git commit -m "[Harshit Anandd] : added BusAttendance.java in day-03"
+git push origin core-java-practice
+
+git status
+git add scenario-based-codebase/day-03/DiscountDashboard.java
+git status
+git commit -m "[Harshit Anandd] : added DiscountDashboard.java in day-03"
+git push origin core-java-practice
+git status
+git add scenario-based-codebase/day-03/GuessingGame.java
+git status
+git commit -m "[Harshit Anandd] : added GuessingGame.java in day-03"
+git push origin core-java-practice
+git status
+git add scenario-based-codebase/day-03/ParkingSystem.java
+git status
+git commit -m "[Harshit Anandd] : added ParkingSystem.java in day-03"
+git push origin core-java-practice
+git status
+git add scenario-based-codebase/day-03/PhoneRecharge.java
+git status
+git commit -m "[Harshit Anandd] : added PhoneRecharge.java in day-03"
+git push origin core-java-practice
+
+
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/inbuiltfunction/BankAccount.java
+git status
+git commit -m "[Harshit Anandd] : added BankAccount.java in in-built function"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/inbuiltfunction/Company.java
+git status
+git commit -m "[Harshit Anandd] : added Company.java in in-built function"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/inbuiltfunction/Library.java
+git status
+git commit -m "[Harshit Anandd] : added Library.java in in-built function"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/inbuiltfunction/Patient.java
+git status
+git commit -m "[Harshit Anandd] : added Patient.java in in-built function"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/inbuiltfunction/Product.java
+git status
+git commit -m "[Harshit Anandd] : added Product.java in in-built function"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/inbuiltfunction/Student.java
+git status
+git commit -m "[Harshit Anandd] : added Student.java in in-built function"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/inbuiltfunction/Vehicle.java
+git status
+git commit -m "[Harshit Anandd] : added Vehicle.java in in-built function"
+git push origin java-oops-practice
+
+
+
+
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/accessmodifiers/BankAccount.java
+git status
+git commit -m "[Harshit Anandd] : added BankAccount.java in access modifiers"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/accessmodifiers/Book.java
+git status
+git commit -m "[Harshit Anandd] : added Book.java in access modifiers"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/accessmodifiers/EBook.java
+git status
+git commit -m "[Harshit Anandd] : added EBook.java in access modifiers"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/accessmodifiers/Employee.java
+git status
+git commit -m "[Harshit Anandd] : added Employee.java in access modifiers"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/accessmodifiers/Manager.java
+git status
+git commit -m "[Harshit Anandd] : added Manager.java in access modifiers"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/accessmodifiers/PostgraduateStudent.java
+git status
+git commit -m "[Harshit Anandd] : added PostgraduateStudent.java in access modifiers"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/accessmodifiers/SavingsAccount.java
+git status
+git commit -m "[Harshit Anandd] : added SavingsAccount.java in access modifiers"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/accessmodifiers/Student.java
+git status
+git commit -m "[Harshit Anandd] : added Student.java in access modifiers"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/constructors/Book.java
+git status
+git commit -m "[Harshit Anandd] : added Book.java in constructors"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/constructors/CarRental.java
+git status
+git commit -m "[Harshit Anandd] : added CarRental.java in constructors"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/constructors/Circle.java
+git status
+git commit -m "[Harshit Anandd] : added Circle.java in constructors"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/constructors/HotelBooking.java
+git status
+git commit -m "[Harshit Anandd] : added HotelBooking.java in constructors"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/constructors/LibraryBook.java
+git status
+git commit -m "[Harshit Anandd] : added LibraryBook.java in constructors"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/constructors/Person.java
+git status
+git commit -m "[Harshit Anandd] : added Person.java in constructors"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/inbuiltfunction/BankAccount.java
+git status
+git commit -m "[Harshit Anandd] : added BankAccount.java in in-built function"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/inbuiltfunction/Book.java
+git status
+git commit -m "[Harshit Anandd] : added Book.java in in-built function"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/inbuiltfunction/Company.java
+git status
+git commit -m "[Harshit Anandd] : added Company.java in in-built function"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/inbuiltfunction/Library.java
+git status
+git commit -m "[Harshit Anandd] : added Library.java in in-built function"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/inbuiltfunction/Patient.java
+git status
+git commit -m "[Harshit Anandd] : added Patient.java in in-built function"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/inbuiltfunction/Product.java
+git status
+git commit -m "[Harshit Anandd] : added Product.java in in-built function"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/inbuiltfunction/Student.java
+git status
+git commit -m "[Harshit Anandd] : added Student.java in in-built function"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/inbuiltfunction/Vehicle.java
+git status
+git commit -m "[Harshit Anandd] : added Vehicle.java in in-built function"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/instanceandclass/Course.java
+git status
+git commit -m "[Harshit Anandd] : added Course.java in instance and class"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/instanceandclass/Product.java
+git status
+git commit -m "[Harshit Anandd] : added Product.java in instance and class"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/instanceandclass/Vehicle.java
+git status
+git commit -m "[Harshit Anandd] : added Vehicle.java in instance and class"
+git push origin java-oops-practice
+
+
+
+
+
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/objectmodelling/levelone/Bank.java
+git status
+git commit -m "[Harshit Anandd] : added Bank.java in level one"
+git push origin java-oops-practice
+
+
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/objectmodelling/levelone/BankSystem.java
+git status
+git commit -m "[Harshit Anandd] : added BankSystem.java in level one"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/objectmodelling/levelone/Book.java
+git status
+git commit -m "[Harshit Anandd] : added Book.java in level one"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/objectmodelling/levelone/Company.java
+git status
+git commit -m "[Harshit Anandd] : added Company.java in level one"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/objectmodelling/levelone/CompanyStructure.java
+git status
+git commit -m "[Harshit Anandd] : added CompanyStructure.java in level one"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/objectmodelling/levelone/Course.java
+git status
+git commit -m "[Harshit Anandd] : added Course.java in level one"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/objectmodelling/levelone/Customer.java
+git status
+git commit -m "[Harshit Anandd] : added Customer.java in level one"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/objectmodelling/levelone/Department.java
+git status
+git commit -m "[Harshit Anandd] : added Department.java in level one"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/objectmodelling/levelone/Doctor.java
+git status
+git commit -m "[Harshit Anandd] : added Doctor.java in level one"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/objectmodelling/levelone/ECommerceApplication.java
+git status
+git commit -m "[Harshit Anandd] : added ECommerceApplication.java in level one"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/objectmodelling/levelone/ECustomer.java
+git status
+git commit -m "[Harshit Anandd] : added ECustomer.java in level one"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/objectmodelling/levelone/EProduct.java
+git status
+git commit -m "[Harshit Anandd] : added EProduct.java in level one"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/objectmodelling/levelone/Employee.java
+git status
+git commit -m "[Harshit Anandd] : added Employee.java in level one"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/objectmodelling/levelone/Faculty.java
+git status
+git commit -m "[Harshit Anandd] : added Faculty.java in level one"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/objectmodelling/levelone/Hospital.java
+git status
+git commit -m "[Harshit Anandd] : added Hospital.java in level one"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/objectmodelling/levelone/HospitalSystem.java
+git status
+git commit -m "[Harshit Anandd] : added HospitalSystem.java in level one"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/objectmodelling/levelone/Library.java
+git status
+git commit -m "[Harshit Anandd] : added Library.java in level one"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/objectmodelling/levelone/LibrarySystem.java
+git status
+git commit -m "[Harshit Anandd] : added LibrarySystem.java in level one"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/objectmodelling/levelone/Order.java
+git status
+git commit -m "[Harshit Anandd] : added Order.java in level one"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/objectmodelling/levelone/Patient.java
+git status
+git commit -m "[Harshit Anandd] : added Patient.java in level one"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/objectmodelling/levelone/School.java
+git status
+git commit -m "[Harshit Anandd] : added School.java in level one"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/objectmodelling/levelone/SchoolCourseApplication.java
+git status
+git commit -m "[Harshit Anandd] : added SchoolCourseApplication.java in level one"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/objectmodelling/levelone/Student.java
+git status
+git commit -m "[Harshit Anandd] : added Student.java in level one"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/objectmodelling/levelone/University.java
+git status
+git commit -m "[Harshit Anandd] : added University.java in level one"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/objectmodelling/levelone/UniversityCourse.java
+git status
+git commit -m "[Harshit Anandd] : added UniversityCourse.java in level one"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/objectmodelling/levelone/UniversityDepartment.java
+git status
+git commit -m "[Harshit Anandd] : added UniversityDepartment.java in level one"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/objectmodelling/levelone/UniversityManagement.java
+git status
+git commit -m "[Harshit Anandd] : added UniversityManagement.java in level one"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/objectmodelling/levelone/UniversityProfessor.java
+git status
+git commit -m "[Harshit Anandd] : added UniversityProfessor.java in level one"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/objectmodelling/levelone/UniversityStructure.java
+git status
+git commit -m "[Harshit Anandd] : added UniversityStructure.java in level one"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/objectmodelling/levelone/UniversityStudent.java
+git status
+git commit -m "[Harshit Anandd] : added UniversityStudent.java in level one"
+git push origin java-oops-practice
+
+
+
+
+
+git status
+git add scenario-based-codebase/day-05/BusRoute.java
+git status
+git commit -m "[Harshit Anandd] : added BusRoute.java in day-05"
+git push origin core-java-practice
+
+
+git status
+git add scenario-based-codebase/day-04/LibraryFineCalculator.java
+git status
+git commit -m "[Harshit Anandd] : added LibraryFineCalculator.java in day-04"
+git push origin core-java-practice
+git status
+git add scenario-based-codebase/day-04/MovieTicketApplication.java
+git status
+git commit -m "[Harshit Anandd] : added MovieTicketApplication.java in day-04"
+git push origin core-java-practice
+git status
+git add scenario-based-codebase/day-05/CurrencyConverter.java
+git status
+git commit -m "[Harshit Anandd] : added CurrencyConverter.java in day-05"
+git push origin core-java-practice
+git status
+git add scenario-based-codebase/day-05/DigitalWatch.java
+git status
+git commit -m "[Harshit Anandd] : added DigitalWatch.java in day-05"
+git push origin core-java-practice
+git status
+git add scenario-based-codebase/day-05/LuckyDraw.java
+git status
+git commit -m "[Harshit Anandd] : added LuckyDraw.java in day-05"
+git push origin core-java-practice
+git status
+git add scenario-based-codebase/day-05/QuizApplication.java
+git status
+git commit -m "[Harshit Anandd] : added QuizApplication.java in day-05"
+git push origin core-java-practice
+
+
+
+git status
+git add leet-code-codebase/arrays/AllDuplicatesInArray.java
+git status
+git commit -m "[Harshit Anandd] : added AllDuplicatesInArray.java in arrays"
+git push origin core-java-practice
+git status
+git add leet-code-codebase/arrays/ContainerWithMostWater.java
+git status
+git commit -m "[Harshit Anandd] : added ContainerWithMostWater.java in arrays"
+git push origin core-java-practice
+git status
+git add leet-code-codebase/arrays/FirstAndLastPositionInSortedArray.java
+git status
+git commit -m "[Harshit Anandd] : added FirstAndLastPositionInSortedArray.java in arrays"
+git push origin core-java-practice
+git status
+git add leet-code-codebase/arrays/MinimumInRotatedSortedArray.java
+git status
+git commit -m "[Harshit Anandd] : added MinimumInRotatedSortedArray.java in arrays"
+git push origin core-java-practice
+git status
+git add leet-code-codebase/arrays/ProductOfArrayExceptSelf.java
+git status
+git commit -m "[Harshit Anandd] : added ProductOfArrayExceptSelf.java in arrays"
+git push origin core-java-practice
+git status
+git add leet-code-codebase/arrays/RotateArray.java
+git status
+git commit -m "[Harshit Anandd] : added RotateArray.java in arrays"
+git push origin core-java-practice
+git status
+git add leet-code-codebase/arrays/SetMatrixZeroes.java
+git status
+git commit -m "[Harshit Anandd] : added SetMatrixZeroes.java in arrays"
+git push origin core-java-practice
+git status
+git add leet-code-codebase/arrays/SortColors.java
+git status
+git commit -m "[Harshit Anandd] : added SortColors.java in arrays"
+git push origin core-java-practice
+git status
+git add leet-code-codebase/arrays/SubarraySumEqualsK.java
+git status
+git commit -m "[Harshit Anandd] : added SubarraySumEqualsK.java in arrays"
+git push origin core-java-practice
+git status
+git add leet-code-codebase/arrays/ThreeSum.java
+git status
+git commit -m "[Harshit Anandd] : added ThreeSum.java in arrays"
+git push origin core-java-practice
+git status
+git add leet-code-codebase/strings/Codec.java
+git status
+git commit -m "[Harshit Anandd] : added Codec.java in strings"
+git push origin core-java-practice
+git status
+git add leet-code-codebase/strings/FindAllAnagramsInString.java
+git status
+git commit -m "[Harshit Anandd] : added FindAllAnagramsInString.java in strings"
+git push origin core-java-practice
+git status
+git add leet-code-codebase/strings/GroupAnagrams.java
+git status
+git commit -m "[Harshit Anandd] : added GroupAnagrams.java in strings"
+git push origin core-java-practice
+git status
+git add leet-code-codebase/strings/LongestPalindromicSubString.java
+git status
+git commit -m "[Harshit Anandd] : added LongestPalindromicSubString.java in strings"
+git push origin core-java-practice
+git status
+git add leet-code-codebase/strings/LongestRepeatingCharactersReplacement.java
+git status
+git commit -m "[Harshit Anandd] : added LongestRepeatingCharactersReplacement.java in strings"
+git push origin core-java-practice
+git status
+git add leet-code-codebase/strings/LongestSubStringWithoutRepeatingCharacters.java
+git status
+git commit -m "[Harshit Anandd] : added LongestSubStringWithoutRepeatingCharacters.java in strings"
+git push origin core-java-practice
+git status
+git add leet-code-codebase/strings/MinimumWindowSubString.java
+git status
+git commit -m "[Harshit Anandd] : added MinimumWindowSubString.java in strings"
+git push origin core-java-practice
+git status
+git add leet-code-codebase/strings/PalindromicSubString.java
+git status
+git commit -m "[Harshit Anandd] : added PalindromicSubString.java in strings"
+git push origin core-java-practice
+git status
+git add leet-code-codebase/strings/SimplifyPath.java
+git status
+git commit -m "[Harshit Anandd] : added SimplifyPath.java in strings"
+git push origin core-java-practice
+git status
+git add leet-code-codebase/strings/StringToInteger.java
+git status
+git commit -m "[Harshit Anandd] : added StringToInteger.java in strings"
+git push origin core-java-practice
+
+
+
+
+
+
+
+
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/encapsulation/Auto.java
+git status
+git commit -m "[Harshit Anandd] : added Auto.java in encapsulation"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/encapsulation/BankAccount.java
+git status
+git commit -m "[Harshit Anandd] : added BankAccount.java in encapsulation"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/encapsulation/BankingApplication.java
+git status
+git commit -m "[Harshit Anandd] : added BankingApplication.java in encapsulation"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/encapsulation/Bike.java
+git status
+git commit -m "[Harshit Anandd] : added Bike.java in encapsulation"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/encapsulation/Book.java
+git status
+git commit -m "[Harshit Anandd] : added Book.java in encapsulation"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/encapsulation/Cab.java
+git status
+git commit -m "[Harshit Anandd] : added Cab.java in encapsulation"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/encapsulation/Car.java
+git status
+git commit -m "[Harshit Anandd] : added Car.java in encapsulation"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/encapsulation/Clothing.java
+git status
+git commit -m "[Harshit Anandd] : added Clothing.java in encapsulation"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/encapsulation/CurrentAccount.java
+git status
+git commit -m "[Harshit Anandd] : added CurrentAccount.java in encapsulation"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/encapsulation/DVD.java
+git status
+git commit -m "[Harshit Anandd] : added DVD.java in encapsulation"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/encapsulation/Department.java
+git status
+git commit -m "[Harshit Anandd] : added Department.java in encapsulation"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/encapsulation/Discountable.java
+git status
+git commit -m "[Harshit Anandd] : added Discountable.java in encapsulation"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/encapsulation/EcommercePlatform.java
+git status
+git commit -m "[Harshit Anandd] : added EcommercePlatform.java in encapsulation"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/encapsulation/Electronics.java
+git status
+git commit -m "[Harshit Anandd] : added Electronics.java in encapsulation"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/encapsulation/Employee.java
+git status
+git commit -m "[Harshit Anandd] : added Employee.java in encapsulation"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/encapsulation/EmployeeSystem.java
+git status
+git commit -m "[Harshit Anandd] : added EmployeeSystem.java in encapsulation"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/encapsulation/FoodDelivery.java
+git status
+git commit -m "[Harshit Anandd] : added FoodDelivery.java in encapsulation"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/encapsulation/FoodItem.java
+git status
+git commit -m "[Harshit Anandd] : added FoodItem.java in encapsulation"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/encapsulation/FullTimeEmployee.java
+git status
+git commit -m "[Harshit Anandd] : added FullTimeEmployee.java in encapsulation"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/encapsulation/GPS.java
+git status
+git commit -m "[Harshit Anandd] : added GPS.java in encapsulation"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/encapsulation/HospitalSystem.java
+git status
+git commit -m "[Harshit Anandd] : added HospitalSystem.java in encapsulation"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/encapsulation/InPatient.java
+git status
+git commit -m "[Harshit Anandd] : added InPatient.java in encapsulation"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/encapsulation/Insurable.java
+git status
+git commit -m "[Harshit Anandd] : added Insurable.java in encapsulation"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/encapsulation/LibraryItem.java
+git status
+git commit -m "[Harshit Anandd] : added LibraryItem.java in encapsulation"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/encapsulation/LibrarySystem.java
+git status
+git commit -m "[Harshit Anandd] : added LibrarySystem.java in encapsulation"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/encapsulation/Loanable.java
+git status
+git commit -m "[Harshit Anandd] : added Loanable.java in encapsulation"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/encapsulation/MedicalRecord.java
+git status
+git commit -m "[Harshit Anandd] : added MedicalRecord.java in encapsulation"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/encapsulation/NonVegItem.java
+git status
+git commit -m "[Harshit Anandd] : added NonVegItem.java in encapsulation"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/encapsulation/PartTimeEmployee.java
+git status
+git commit -m "[Harshit Anandd] : added PartTimeEmployee.java in encapsulation"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/encapsulation/Patient.java
+git status
+git commit -m "[Harshit Anandd] : added Patient.java in encapsulation"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/encapsulation/Product.java
+git status
+git commit -m "[Harshit Anandd] : added Product.java in encapsulation"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/encapsulation/RentalSystem.java
+git status
+git commit -m "[Harshit Anandd] : added RentalSystem.java in encapsulation"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/encapsulation/Reservable.java
+git status
+git commit -m "[Harshit Anandd] : added Reservable.java in encapsulation"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/encapsulation/RideHailingApplication.java
+git status
+git commit -m "[Harshit Anandd] : added RideHailingApplication.java in encapsulation"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/encapsulation/RideVehicle.java
+git status
+git commit -m "[Harshit Anandd] : added RideVehicle.java in encapsulation"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/encapsulation/SavingsAccount.java
+git status
+git commit -m "[Harshit Anandd] : added SavingsAccount.java in encapsulation"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/encapsulation/Taxable.java
+git status
+git commit -m "[Harshit Anandd] : added Taxable.java in encapsulation"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/encapsulation/VegItem.java
+git status
+git commit -m "[Harshit Anandd] : added VegItem.java in encapsulation"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/encapsulation/Vehicle.java
+git status
+git commit -m "[Harshit Anandd] : added Vehicle.java in encapsulation"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/inheritance/assistedproblems/Animal.java
+git status
+git commit -m "[Harshit Anandd] : added Animal.java in assisted problems"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/inheritance/assistedproblems/AnimalHierarchy.java
+git status
+git commit -m "[Harshit Anandd] : added AnimalHierarchy.java in assisted problems"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/inheritance/assistedproblems/Bird.java
+git status
+git commit -m "[Harshit Anandd] : added Bird.java in assisted problems"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/inheritance/assistedproblems/Car.java
+git status
+git commit -m "[Harshit Anandd] : added Car.java in assisted problems"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/inheritance/assistedproblems/Cat.java
+git status
+git commit -m "[Harshit Anandd] : added Cat.java in assisted problems"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/inheritance/assistedproblems/Developer.java
+git status
+git commit -m "[Harshit Anandd] : added Developer.java in assisted problems"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/inheritance/assistedproblems/Dog.java
+git status
+git commit -m "[Harshit Anandd] : added Dog.java in assisted problems"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/inheritance/assistedproblems/Employee.java
+git status
+git commit -m "[Harshit Anandd] : added Employee.java in assisted problems"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/inheritance/assistedproblems/EmployeeSystem.java
+git status
+git commit -m "[Harshit Anandd] : added EmployeeSystem.java in assisted problems"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/inheritance/assistedproblems/Manager.java
+git status
+git commit -m "[Harshit Anandd] : added Manager.java in assisted problems"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/inheritance/assistedproblems/TransportSystem.java
+git status
+git commit -m "[Harshit Anandd] : added TransportSystem.java in assisted problems"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/inheritance/assistedproblems/Truck.java
+git status
+git commit -m "[Harshit Anandd] : added Truck.java in assisted problems"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/inheritance/assistedproblems/Vehicle.java
+git status
+git commit -m "[Harshit Anandd] : added Vehicle.java in assisted problems"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/inheritance/hierarchicalinheritance/BankAccount.java
+git status
+git commit -m "[Harshit Anandd] : added BankAccount.java in hierarchical inheritance"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/inheritance/hierarchicalinheritance/BankHierarchy.java
+git status
+git commit -m "[Harshit Anandd] : added BankHierarchy.java in hierarchical inheritance"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/inheritance/hierarchicalinheritance/CheckingAccount.java
+git status
+git commit -m "[Harshit Anandd] : added CheckingAccount.java in hierarchical inheritance"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/inheritance/hierarchicalinheritance/Person.java
+git status
+git commit -m "[Harshit Anandd] : added Person.java in hierarchical inheritance"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/inheritance/hierarchicalinheritance/SavingsAccount.java
+git status
+git commit -m "[Harshit Anandd] : added SavingsAccount.java in hierarchical inheritance"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/inheritance/hierarchicalinheritance/SchoolRoles.java
+git status
+git commit -m "[Harshit Anandd] : added SchoolRoles.java in hierarchical inheritance"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/inheritance/hierarchicalinheritance/Student.java
+git status
+git commit -m "[Harshit Anandd] : added Student.java in hierarchical inheritance"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/inheritance/hierarchicalinheritance/Teacher.java
+git status
+git commit -m "[Harshit Anandd] : added Teacher.java in hierarchical inheritance"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/inheritance/hybridinheritance/Chef.java
+git status
+git commit -m "[Harshit Anandd] : added Chef.java in hybrid inheritance"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/inheritance/hybridinheritance/ElectricVehicle.java
+git status
+git commit -m "[Harshit Anandd] : added ElectricVehicle.java in hybrid inheritance"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/inheritance/hybridinheritance/PersonBase.java
+git status
+git commit -m "[Harshit Anandd] : added PersonBase.java in hybrid inheritance"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/inheritance/hybridinheritance/PetrolVehicle.java
+git status
+git commit -m "[Harshit Anandd] : added PetrolVehicle.java in hybrid inheritance"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/inheritance/hybridinheritance/Refuelable.java
+git status
+git commit -m "[Harshit Anandd] : added Refuelable.java in hybrid inheritance"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/inheritance/hybridinheritance/Restaurant.java
+git status
+git commit -m "[Harshit Anandd] : added Restaurant.java in hybrid inheritance"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/inheritance/hybridinheritance/VehicleBase.java
+git status
+git commit -m "[Harshit Anandd] : added VehicleBase.java in hybrid inheritance"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/inheritance/hybridinheritance/VehicleHybrid.java
+git status
+git commit -m "[Harshit Anandd] : added VehicleHybrid.java in hybrid inheritance"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/inheritance/hybridinheritance/Waiter.java
+git status
+git commit -m "[Harshit Anandd] : added Waiter.java in hybrid inheritance"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/inheritance/hybridinheritance/Worker.java
+git status
+git commit -m "[Harshit Anandd] : added Worker.java in hybrid inheritance"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/inheritance/multilevelinheritance/Course.java
+git status
+git commit -m "[Harshit Anandd] : added Course.java in multi-level inheritance"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/inheritance/multilevelinheritance/CourseSystem.java
+git status
+git commit -m "[Harshit Anandd] : added CourseSystem.java in multi-level inheritance"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/inheritance/multilevelinheritance/DeliveredOrder.java
+git status
+git commit -m "[Harshit Anandd] : added DeliveredOrder.java in multi-level inheritance"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/inheritance/multilevelinheritance/OnlineCourse.java
+git status
+git commit -m "[Harshit Anandd] : added OnlineCourse.java in multi-level inheritance"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/inheritance/multilevelinheritance/Order.java
+git status
+git commit -m "[Harshit Anandd] : added Order.java in multi-level inheritance"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/inheritance/multilevelinheritance/OrderManagement.java
+git status
+git commit -m "[Harshit Anandd] : added OrderManagement.java in multi-level inheritance"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/inheritance/multilevelinheritance/PaidOnlineCourse.java
+git status
+git commit -m "[Harshit Anandd] : added PaidOnlineCourse.java in multi-level inheritance"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/inheritance/multilevelinheritance/ShippedOrder.java
+git status
+git commit -m "[Harshit Anandd] : added ShippedOrder.java in multi-level inheritance"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/inheritance/singleinheritance/Author.java
+git status
+git commit -m "[Harshit Anandd] : added Author.java in single inheritance"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/inheritance/singleinheritance/Book.java
+git status
+git commit -m "[Harshit Anandd] : added Book.java in single inheritance"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/inheritance/singleinheritance/Device.java
+git status
+git commit -m "[Harshit Anandd] : added Device.java in single inheritance"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/inheritance/singleinheritance/Library.java
+git status
+git commit -m "[Harshit Anandd] : added Library.java in single inheritance"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/inheritance/singleinheritance/SmartHome.java
+git status
+git commit -m "[Harshit Anandd] : added SmartHome.java in single inheritance"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/inheritance/singleinheritance/Thermostat.java
+git status
+git commit -m "[Harshit Anandd] : added Thermostat.java in single inheritance"
+git push origin java-oops-practice
+
+
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/courseenrollmentsystem/Graded.java
+git status
+git commit -m "[Harshit Anandd] : added Graded.java in course enrollment system"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/courseenrollmentsystem/Postgraduate.java
+git status
+git commit -m "[Harshit Anandd] : added Postgraduate.java in course enrollment system"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/courseenrollmentsystem/Student.java
+git status
+git commit -m "[Harshit Anandd] : added Student.java in course enrollment system"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/courseenrollmentsystem/Undergraduate.java
+git status
+git commit -m "[Harshit Anandd] : added Undergraduate.java in course enrollment system"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/courseenrollmentsystem/UniversitySystem.java
+git status
+git commit -m "[Harshit Anandd] : added UniversitySystem.java in course enrollment system"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/ewalletapplication/BusinessWallet.java
+git status
+git commit -m "[Harshit Anandd] : added BusinessWallet.java in e-wallet application"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/ewalletapplication/EWalletApplication.java
+git status
+git commit -m "[Harshit Anandd] : added EWalletApplication.java in e-wallet application"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/ewalletapplication/PersonalWallet.java
+git status
+git commit -m "[Harshit Anandd] : added PersonalWallet.java in e-wallet application"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/ewalletapplication/Transferrable.java
+git status
+git commit -m "[Harshit Anandd] : added Transferrable.java in e-wallet application"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/ewalletapplication/Wallet.java
+git status
+git commit -m "[Harshit Anandd] : added Wallet.java in e-wallet application"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/hospitalmanagementsystem/BillingHelper.java
+git status
+git commit -m "[Harshit Anandd] : added BillingHelper.java in hospital management system"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/hospitalmanagementsystem/HospitalSystem.java
+git status
+git commit -m "[Harshit Anandd] : added HospitalSystem.java in hospital management system"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/hospitalmanagementsystem/InPatient.java
+git status
+git commit -m "[Harshit Anandd] : added InPatient.java in hospital management system"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/hospitalmanagementsystem/OutPatient.java
+git status
+git commit -m "[Harshit Anandd] : added OutPatient.java in hospital management system"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/hospitalmanagementsystem/Patient.java
+git status
+git commit -m "[Harshit Anandd] : added Patient.java in hospital management system"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/hospitalmanagementsystem/Payable.java
+git status
+git commit -m "[Harshit Anandd] : added Payable.java in hospital management system"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/smarthomeapplication/AirConditioner.java
+git status
+git commit -m "[Harshit Anandd] : added AirConditioner.java in smart home application"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/smarthomeapplication/Appliance.java
+git status
+git commit -m "[Harshit Anandd] : added Appliance.java in smart home application"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/smarthomeapplication/Controllable.java
+git status
+git commit -m "[Harshit Anandd] : added Controllable.java in smart home application"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/smarthomeapplication/Light.java
+git status
+git commit -m "[Harshit Anandd] : added Light.java in smart home application"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/smarthomeapplication/SmartHomeApplication.java
+git status
+git commit -m "[Harshit Anandd] : added SmartHomeApplication.java in smart home application"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/smarthomeapplication/SmartHomeController.java
+git status
+git commit -m "[Harshit Anandd] : added SmartHomeController.java in smart home application"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/vehiclerentalapplication/Car.java
+git status
+git commit -m "[Harshit Anandd] : added Car.java in vehicle rental application"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/vehiclerentalapplication/Rentable.java
+git status
+git commit -m "[Harshit Anandd] : added Rentable.java in vehicle rental application"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/vehiclerentalapplication/RentalApplication.java
+git status
+git commit -m "[Harshit Anandd] : added RentalApplication.java in vehicle rental application"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/vehiclerentalapplication/Truck.java
+git status
+git commit -m "[Harshit Anandd] : added Truck.java in vehicle rental application"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/vehiclerentalapplication/Vehicle.java
+git status
+git commit -m "[Harshit Anandd] : added Vehicle.java in vehicle rental application"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/cabbygo/CabbyGoApplication.java
+git status
+git commit -m "[Harshit Anandd] : added CabbyGoApplication.java in cabbygo"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/cabbygo/Driver.java
+git status
+git commit -m "[Harshit Anandd] : added Driver.java in cabby go"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/cabbygo/IRideService.java
+git status
+git commit -m "[Harshit Anandd] : added IRideService.java in cabby go"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/cabbygo/Mini.java
+git status
+git commit -m "[Harshit Anandd] : added Mini.java in cabby go"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/cabbygo/RideManager.java
+git status
+git commit -m "[Harshit Anandd] : added RideManager.java in cabby go"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/cabbygo/SUV.java
+git status
+git commit -m "[Harshit Anandd] : added SUV.java in cabby go"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/cabbygo/Sedan.java
+git status
+git commit -m "[Harshit Anandd] : added Sedan.java in cabby go"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/cabbygo/Vehicle.java
+git status
+git commit -m "[Harshit Anandd] : added Vehicle.java in cabby go"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/mybank/Account.java
+git status
+git commit -m "[Harshit Anandd] : added Account.java in my bank"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/mybank/CurrentAccount.java
+git status
+git commit -m "[Harshit Anandd] : added CurrentAccount.java in my bank"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/mybank/ITransaction.java
+git status
+git commit -m "[Harshit Anandd] : added ITransaction.java in my bank"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/mybank/MyBankApplication.java
+git status
+git commit -m "[Harshit Anandd] : added MyBankApplication.java in my bank"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/mybank/SavingsAccount.java
+git status
+git commit -m "[Harshit Anandd] : added SavingsAccount.java in my bank"
+git push origin java-oops-practice
+
+
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/hashmap/customhashmap/CustomHashMap.java
+git status
+git commit -m "[Harshit Anandd] : added CustomHashMap.java in custom hash-map"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/hashmap/customhashmap/CustomHashMapMain.java
+git status
+git commit -m "[Harshit Anandd] : added CustomHashMapMain.java in custom hash-map"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/hashmap/givensumpair/GivenSumMain.java
+git status
+git commit -m "[Harshit Anandd] : added GivenSumMain.java in given sum pair"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/hashmap/givensumpair/PairWithGivenSum.java
+git status
+git commit -m "[Harshit Anandd] : added PairWithGivenSum.java in given sum pair"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/hashmap/longestconsecutivesequence/LCSMain.java
+git status
+git commit -m "[Harshit Anandd] : added LCSMain.java in longest consecutive sequence"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/hashmap/longestconsecutivesequence/LongestConsecutiveSequence.java
+git status
+git commit -m "[Harshit Anandd] : added LongestConsecutiveSequence.java in longest consecutive sequence"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/hashmap/subarraywithzerosum/ZeroSumMain.java
+git status
+git commit -m "[Harshit Anandd] : added ZeroSumMain.java in sub-array with zero sum"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/hashmap/subarraywithzerosum/ZeroSumSubarray.java
+git status
+git commit -m "[Harshit Anandd] : added ZeroSumSubarray.java in sub-array with zero sum"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/hashmap/twosum/TwoSum.java
+git status
+git commit -m "[Harshit Anandd] : added TwoSum.java in two sum"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/hashmap/twosum/TwoSumMain.java
+git status
+git commit -m "[Harshit Anandd] : added TwoSumMain.java in two sum"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/linkedlist/inventorymanagementsystem/InventoryMain.java
+git status
+git commit -m "[Harshit Anandd] : added InventoryMain.java in inventory management system"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/linkedlist/inventorymanagementsystem/InventoryManagement.java
+git status
+git commit -m "[Harshit Anandd] : added InventoryManagement.java in inventory management system"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/linkedlist/inventorymanagementsystem/ItemNode.java
+git status
+git commit -m "[Harshit Anandd] : added ItemNode.java in inventory management system"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/linkedlist/librarymanagementsystem/BookNode.java
+git status
+git commit -m "[Harshit Anandd] : added BookNode.java in library management system"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/linkedlist/librarymanagementsystem/LibraryMain.java
+git status
+git commit -m "[Harshit Anandd] : added LibraryMain.java in library management system"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/linkedlist/librarymanagementsystem/LibraryManagement.java
+git status
+git commit -m "[Harshit Anandd] : added LibraryManagement.java in library management system"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/linkedlist/moviemanagementsystem/MovieMain.java
+git status
+git commit -m "[Harshit Anandd] : added MovieMain.java in movie management system"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/linkedlist/moviemanagementsystem/MovieManagement.java
+git status
+git commit -m "[Harshit Anandd] : added MovieManagement.java in movie management system"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/linkedlist/moviemanagementsystem/MovieNode.java
+git status
+git commit -m "[Harshit Anandd] : added MovieNode.java in movie management system"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/linkedlist/roundrobinscheduling/ProcessNode.java
+git status
+git commit -m "[Harshit Anandd] : added ProcessNode.java in round-robin scheduling"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/linkedlist/roundrobinscheduling/RoundRobin.java
+git status
+git commit -m "[Harshit Anandd] : added RoundRobin.java in round-robin scheduling"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/linkedlist/roundrobinscheduling/RoundRobinMain.java
+git status
+git commit -m "[Harshit Anandd] : added RoundRobinMain.java in round-robin scheduling"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/linkedlist/socialmediaconnection/SocialMedia.java
+git status
+git commit -m "[Harshit Anandd] : added SocialMedia.java in social-media connection"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/linkedlist/socialmediaconnection/SocialMediaMain.java
+git status
+git commit -m "[Harshit Anandd] : added SocialMediaMain.java in social-media connection"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/linkedlist/socialmediaconnection/UserNode.java
+git status
+git commit -m "[Harshit Anandd] : added UserNode.java in social-media connection"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/linkedlist/studentrecordmanagement/StudentMain.java
+git status
+git commit -m "[Harshit Anandd] : added StudentMain.java in student record management"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/linkedlist/studentrecordmanagement/StudentManagement.java
+git status
+git commit -m "[Harshit Anandd] : added StudentManagement.java in student record management"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/linkedlist/studentrecordmanagement/StudentNode.java
+git status
+git commit -m "[Harshit Anandd] : added StudentNode.java in student record management"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/linkedlist/taskscheduler/TaskMain.java
+git status
+git commit -m "[Harshit Anandd] : added TaskMain.java in task scheduler"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/linkedlist/taskscheduler/TaskNode.java
+git status
+git commit -m "[Harshit Anandd] : added TaskNode.java in task scheduler"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/linkedlist/taskscheduler/TaskScheduler.java
+git status
+git commit -m "[Harshit Anandd] : added TaskScheduler.java in task scheduler"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/linkedlist/texteditor/StateNode.java
+git status
+git commit -m "[Harshit Anandd] : added StateNode.java in text editor"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/linkedlist/texteditor/TextEditor.java
+git status
+git commit -m "[Harshit Anandd] : added TextEditor.java in text editor"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/linkedlist/texteditor/TextMain.java
+git status
+git commit -m "[Harshit Anandd] : added TextMain.java in text editor"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/linkedlist/ticketreservation/TicketNode.java
+git status
+git commit -m "[Harshit Anandd] : added TicketNode.java in ticket reservation"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/linkedlist/ticketreservation/TicketReservation.java
+git status
+git commit -m "[Harshit Anandd] : added TicketReservation.java in ticket reservation"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/linkedlist/ticketreservation/TicketReservationMain.java
+git status
+git commit -m "[Harshit Anandd] : added TicketReservationMain.java in ticket reservation"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/queue/circulartour/CircularTour.java
+git status
+git commit -m "[Harshit Anandd] : added CircularTour.java in circular tour"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/queue/circulartour/CircularTourMain.java
+git status
+git commit -m "[Harshit Anandd] : added CircularTourMain.java in circular tour"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/queue/slidingwindow/SlidingWindowMain.java
+git status
+git commit -m "[Harshit Anandd] : added SlidingWindowMain.java in sliding window"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/queue/slidingwindow/SlidingWindowMaximum.java
+git status
+git commit -m "[Harshit Anandd] : added SlidingWindowMaximum.java in sliding window"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/sorting/bubblesort/BubbleSortMain.java
+git status
+git commit -m "[Harshit Anandd] : added BubbleSortMain.java in bubble sort"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/sorting/bubblesort/StudentMarksSorter.java
+git status
+git commit -m "[Harshit Anandd] : added StudentMarksSorter.java in bubble sort"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/sorting/countingsort/AgeSorter.java
+git status
+git commit -m "[Harshit Anandd] : added AgeSorter.java in counting sort"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/sorting/countingsort/CountingSortMain.java
+git status
+git commit -m "[Harshit Anandd] : added CountingSortMain.java in counting sort"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/sorting/heapsort/HeapSortMain.java
+git status
+git commit -m "[Harshit Anandd] : added HeapSortMain.java in heap sort"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/sorting/heapsort/SalarySorter.java
+git status
+git commit -m "[Harshit Anandd] : added SalarySorter.java in heap sort"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/sorting/insertionsort/EmployeeIDSorter.java
+git status
+git commit -m "[Harshit Anandd] : added EmployeeIDSorter.java in insertion sort"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/sorting/insertionsort/InsertionSortMain.java
+git status
+git commit -m "[Harshit Anandd] : added InsertionSortMain.java in insertion sort"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/sorting/mergesort/BookPriceSorter.java
+git status
+git commit -m "[Harshit Anandd] : added BookPriceSorter.java in merge sort"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/sorting/mergesort/MergeSortMain.java
+git status
+git commit -m "[Harshit Anandd] : added MergeSortMain.java in merge sort"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/sorting/quicksort/ProductPriceSorter.java
+git status
+git commit -m "[Harshit Anandd] : added ProductPriceSorter.java in quick sort"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/sorting/quicksort/QuickSortMain.java
+git status
+git commit -m "[Harshit Anandd] : added QuickSortMain.java in quick sort"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/sorting/selectionsort/ExamScoreSorter.java
+git status
+git commit -m "[Harshit Anandd] : added ExamScoreSorter.java in selection sort"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/sorting/selectionsort/SelectionSort.java
+git status
+git commit -m "[Harshit Anandd] : added SelectionSort.java in selection sort"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/stack/queueusingstack/QueueUsingStacks.java
+git status
+git commit -m "[Harshit Anandd] : added QueueUsingStacks.java in queue using stack"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/stack/queueusingstack/QueueUsingStacksMain.java
+git status
+git commit -m "[Harshit Anandd] : added QueueUsingStacksMain.java in queue using stack"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/stack/sortingastack/SortStack.java
+git status
+git commit -m "[Harshit Anandd] : added SortStack.java in sorting a stack"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/stack/sortingastack/SortStackMain.java
+git status
+git commit -m "[Harshit Anandd] : added SortStackMain.java in sorting a stack"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/stack/stockspan/StockSpan.java
+git status
+git commit -m "[Harshit Anandd] : added StockSpan.java in stock span"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/stack/stockspan/StockSpanMain.java
+git status
+git commit -m "[Harshit Anandd] : added StockSpanMain.java in stock span"
+git push origin java-dsa-practice
+
+
+
+
+
+
+
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day03/campusconnect/CampusConnectApplication.java
+git status
+git commit -m "[Harshit Anandd] : added CampusConnectApplication.java in Campus Connect"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day03/campusconnect/Course.java
+git status
+git commit -m "[Harshit Anandd] : added Course.java in Campus Connect"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day03/campusconnect/CourseActions.java
+git status
+git commit -m "[Harshit Anandd] : added CourseActions.java in Campus Connect"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day03/campusconnect/Faculty.java
+git status
+git commit -m "[Harshit Anandd] : added Faculty.java in Campus Connect"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day03/campusconnect/Person.java
+git status
+git commit -m "[Harshit Anandd] : added Person.java in Campus Connect"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day03/campusconnect/Student.java
+git status
+git commit -m "[Harshit Anandd] : added Student.java in Campus Connect"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day03/swiftcart/Cart.java
+git status
+git commit -m "[Harshit Anandd] : added Cart.java in Swift Cart"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day03/swiftcart/Checkout.java
+git status
+git commit -m "[Harshit Anandd] : added Checkout.java in Swift Cart"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day03/swiftcart/NonPerishableProduct.java
+git status
+git commit -m "[Harshit Anandd] : added NonPerishableProduct.java in Swift Cart"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day03/swiftcart/PerishableProduct.java
+git status
+git commit -m "[Harshit Anandd] : added PerishableProduct.java in Swift Cart"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day03/swiftcart/Product.java
+git status
+git commit -m "[Harshit Anandd] : added Product.java in Swift Cart"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day03/swiftcart/SwiftCartApplication.java
+git status
+git commit -m "[Harshit Anandd] : added SwiftCartApplication.java in Swift Cart"
+git push origin java-oops-practice
+
+
+
+
+
+
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day04/edumentor/Certifiable.java
+git status
+git commit -m "[Harshit Anandd] : added Certifiable.java in Edu-Mentor"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day04/edumentor/Course.java
+git status
+git commit -m "[Harshit Anandd] : added Course.java in Edu-Mentor"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day04/edumentor/EduMentorApplication.java
+git status
+git commit -m "[Harshit Anandd] : added EduMentorApplication.java in Edu-Mentor"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day04/edumentor/FullDegree.java
+git status
+git commit -m "[Harshit Anandd] : added FullDegree.java in Edu-Mentor"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day04/edumentor/Instructor.java
+git status
+git commit -m "[Harshit Anandd] : added Instructor.java in Edu-Mentor"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day04/edumentor/Learner.java
+git status
+git commit -m "[Harshit Anandd] : added Learner.java in Edu-Mentor"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day04/edumentor/Quiz.java
+git status
+git commit -m "[Harshit Anandd] : added Quiz.java in Edu-Mentor"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day04/edumentor/ShortCourse.java
+git status
+git commit -m "[Harshit Anandd] : added ShortCourse.java in Edu-Mentor"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day04/edumentor/User.java
+git status
+git commit -m "[Harshit Anandd] : added User.java in Edu-Mentor"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day04/eventease/BirthdayEvent.java
+git status
+git commit -m "[Harshit Anandd] : added BirthdayEvent.java in Event Ease"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day04/eventease/ConferenceEvent.java
+git status
+git commit -m "[Harshit Anandd] : added ConferenceEvent.java in Event Ease"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day04/eventease/Event.java
+git status
+git commit -m "[Harshit Anandd] : added Event.java in Event Ease"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day04/eventease/EventEaseApplication.java
+git status
+git commit -m "[Harshit Anandd] : added EventEaseApplication.java in Event Ease"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day04/eventease/Schedulable.java
+git status
+git commit -m "[Harshit Anandd] : added Schedulable.java in Event Ease"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day04/fittrack/CardioWorkout.java
+git status
+git commit -m "[Harshit Anandd] : added CardioWorkout.java in Fit Track"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day04/fittrack/FitTrackApplicaiton.java
+git status
+git commit -m "[Harshit Anandd] : added FitTrackApplicaiton.java in Fit Track"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day04/fittrack/StrengthWorkout.java
+git status
+git commit -m "[Harshit Anandd] : added StrengthWorkout.java in Fit Track"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day04/fittrack/Trackable.java
+git status
+git commit -m "[Harshit Anandd] : added Trackable.java in Fit Track"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day04/fittrack/UserProfile.java
+git status
+git commit -m "[Harshit Anandd] : added UserProfile.java in Fit Track"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day04/fittrack/Workout.java
+git status
+git commit -m "[Harshit Anandd] : added Workout.java in Fit Track"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day04/petpal/Cat.java
+git status
+git commit -m "[Harshit Anandd] : added Cat.java in Pet Pal"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day04/petpal/Dog.java
+git status
+git commit -m "[Harshit Anandd] : added Dog.java in Pet Pal"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day04/petpal/Interactable.java
+git status
+git commit -m "[Harshit Anandd] : added Interactable.java in Pet Pal"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day04/petpal/Pet.java
+git status
+git commit -m "[Harshit Anandd] : added Pet.java in Pet Pal"
+git push origin java-oops-practice
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day04/petpal/PetPalApplicaiton.java
+git status
+git commit -m "[Harshit Anandd] : added PetPalApplicaiton.java in Pet Pal"
+git push origin java-oops-practice
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day05/bookbazaar/Book.java
+git status
+git commit -m "[Harshit Anandd] : added Book.java in Book Bazaar"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day05/bookbazaar/BookBazaarApplication.java
+git status
+git commit -m "[Harshit Anandd] : added BookBazaarApplication.java in Book Bazaar"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day05/bookbazaar/Discountable.java
+git status
+git commit -m "[Harshit Anandd] : added Discountable.java in Book Bazaar"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day05/bookbazaar/EBook.java
+git status
+git commit -m "[Harshit Anandd] : added EBook.java in Book Bazaar"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day05/bookbazaar/Order.java
+git status
+git commit -m "[Harshit Anandd] : added Order.java in Book Bazaar"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day05/bookbazaar/PrintedBook.java
+git status
+git commit -m "[Harshit Anandd] : added PrintedBook.java in Book Bazaar"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day05/loanbuddy/Applicant.java
+git status
+git commit -m "[Harshit Anandd] : added Applicant.java in Loan Buddy"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day05/loanbuddy/Approvable.java
+git status
+git commit -m "[Harshit Anandd] : added Approvable.java in Loan Buddy"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day05/loanbuddy/AutoLoan.java
+git status
+git commit -m "[Harshit Anandd] : added AutoLoan.java in Loan Buddy"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day05/loanbuddy/FinlyTechApplication.java
+git status
+git commit -m "[Harshit Anandd] : added FinlyTechApplication.java in Loan Buddy"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day05/loanbuddy/HomeLoan.java
+git status
+git commit -m "[Harshit Anandd] : added HomeLoan.java in Loan Buddy"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day05/loanbuddy/LoanApplication.java
+git status
+git commit -m "[Harshit Anandd] : added LoanApplication.java in Loan Buddy"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day05/parkease/Bike.java
+git status
+git commit -m "[Harshit Anandd] : added Bike.java in Park Ease"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day05/parkease/Car.java
+git status
+git commit -m "[Harshit Anandd] : added Car.java in Park Ease"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day05/parkease/ParkEaseApplication.java
+git status
+git commit -m "[Harshit Anandd] : added ParkEaseApplication.java in Park Ease"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day05/parkease/ParkingSlot.java
+git status
+git commit -m "[Harshit Anandd] : added ParkingSlot.java in Park Ease"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day05/parkease/Payable.java
+git status
+git commit -m "[Harshit Anandd] : added Payable.java in Park Ease"
+git push origin java-oops-practice
+
+git status
+git add java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day05/parkease/Vehicle.java
+git status
+git commit -m "[Harshit Anandd] : added Vehicle.java in Park Ease"
+git push origin java-oops-practice
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/readers/challenge/comparisons/FullComparison.java
+git status
+git commit -m "[Harshit Anandd] : added FullComparison.java in comparisons"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/readers/challenge/comparisons/large_file.txt
+git status
+git commit -m "[Harshit Anandd] : added large_file.txt in comparisons"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/readers/filereader/countwords/WordCounter.java
+git status
+git commit -m "[Harshit Anandd] : added WordCounter.java in count word"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/readers/filereader/countwords/sample.txt
+git status
+git commit -m "[Harshit Anandd] : added sample.txt in count word"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/readers/filereader/linebyline/ReadFileLineByLine.java
+git status
+git commit -m "[Harshit Anandd] : added ReadFileLineByLine.java in line by line"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/readers/filereader/linebyline/sample.txt
+git status
+git commit -m "[Harshit Anandd] : added sample.txt in line by line"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/readers/inputstreamreader/bytetocharacter/ByteToCharStream.java
+git status
+git commit -m "[Harshit Anandd] : added ByteToCharStream.java in byte to character"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/readers/inputstreamreader/bytetocharacter/sample.txt
+git status
+git commit -m "[Harshit Anandd] : added sample.txt in byte to character"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/readers/inputstreamreader/consoletofile/ConsoleToFile.java
+git status
+git commit -m "[Harshit Anandd] : added ConsoleToFile.java in console to file"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/readers/inputstreamreader/consoletofile/sample.txt
+git status
+git commit -m "[Harshit Anandd] : added sample.txt in console to file"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/searching/binarysearch/firstlastoccurrence/FirstLastOccurrence.java
+git status
+git commit -m "[Harshit Anandd] : added FirstLastOccurrence.java in first last occurrence"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/searching/binarysearch/firstlastoccurrence/FirstLastOccurrenceMain.java
+git status
+git commit -m "[Harshit Anandd] : added FirstLastOccurrenceMain.java in first last occurrence"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/searching/binarysearch/peakelement/PeakElement.java
+git status
+git commit -m "[Harshit Anandd] : added PeakElement.java in peak element"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/searching/binarysearch/rotationpoint/RotationPoint.java
+git status
+git commit -m "[Harshit Anandd] : added RotationPoint.java in rotation point"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/searching/binarysearch/searchmatrix/SearchMatrix.java
+git status
+git commit -m "[Harshit Anandd] : added SearchMatrix.java in search matrix"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/searching/challenge/missingtarget/MissingTarget.java
+git status
+git commit -m "[Harshit Anandd] : added MissingTarget.java in missing target"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/searching/challenge/missingtarget/MissingTargetMain.java
+git status
+git commit -m "[Harshit Anandd] : added MissingTargetMain.java in missing target"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/searching/linearsearch/findsentence/FindSentence.java
+git status
+git commit -m "[Harshit Anandd] : added FindSentence.java in find sentence"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/searching/linearsearch/findsentence/FindSentenceMain.java
+git status
+git commit -m "[Harshit Anandd] : added FindSentenceMain.java in find sentence"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/searching/linearsearch/firstnegativenumber/FirstNegativeNumber.java
+git status
+git commit -m "[Harshit Anandd] : added FirstNegativeNumber.java in first negative number"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/searching/linearsearch/firstnegativenumber/FirstNegativeNumberMain.java
+git status
+git commit -m "[Harshit Anandd] : added FirstNegativeNumberMain.java in first negative number"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/strings/stringbuffer/comparison/PerformanceComparison.java
+git status
+git commit -m "[Harshit Anandd] : added PerformanceComparison.java in comparison"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/strings/stringbuffer/concatenation/StringBufferConcatenation.java
+git status
+git commit -m "[Harshit Anandd] : added StringBufferConcatenation.java in concatenation"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/strings/stringbuilder/duplicates/RemoveDuplicates.java
+git status
+git commit -m "[Harshit Anandd] : added RemoveDuplicates.java in duplicates"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/strings/stringbuilder/reverse/ReverseString.java
+git status
+git commit -m "[Harshit Anandd] : added ReverseString.java in reverse"
+git push origin java-dsa-practice
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+git status
+git add java-dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day01/ambulanceroute/AmbulanceRoute.java
+git status
+git commit -m "[Harshit Anandd] : added AmbulanceRoute.java in Ambulance Route"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day01/ambulanceroute/AmbulanceRouteMain.java
+git status
+git commit -m "[Harshit Anandd] : added AmbulanceRouteMain.java in Ambulance Route"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day01/ambulanceroute/HospitalUnit.java
+git status
+git commit -m "[Harshit Anandd] : added HospitalUnit.java in Ambulance Route"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day01/bookshelf/BookLinkedList.java
+git status
+git commit -m "[Harshit Anandd] : added BookLinkedList.java in Book Shelf"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day01/bookshelf/BookNode.java
+git status
+git commit -m "[Harshit Anandd] : added BookNode.java in Book Shelf"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day01/bookshelf/BookShelf.java
+git status
+git commit -m "[Harshit Anandd] : added BookShelf.java in Book Shelf"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day01/bookshelf/BookShelfMain.java
+git status
+git commit -m "[Harshit Anandd] : added BookShelfMain.java in Book Shelf"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day01/browserbuddy/BrowserBuddyMain.java
+git status
+git commit -m "[Harshit Anandd] : added BrowserBuddyMain.java in Browser Buddy"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day01/browserbuddy/BrowserManager.java
+git status
+git commit -m "[Harshit Anandd] : added BrowserManager.java in Browser Buddy"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day01/browserbuddy/BrowserTab.java
+git status
+git commit -m "[Harshit Anandd] : added BrowserTab.java in Browser Buddy"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day01/browserbuddy/HistoryNode.java
+git status
+git commit -m "[Harshit Anandd] : added HistoryNode.java in Browser Buddy"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day02/callcenter/Call.java
+git status
+git commit -m "[Harshit Anandd] : added Call.java in Call Center"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day02/callcenter/CallCenter.java
+git status
+git commit -m "[Harshit Anandd] : added CallCenter.java in Call Center"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day02/callcenter/CallCenterMain.java
+git status
+git commit -m "[Harshit Anandd] : added CallCenterMain.java in Call Center"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day02/texteeditor/Action.java
+git status
+git commit -m "[Harshit Anandd] : added Action.java in Text Editor"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day02/texteeditor/TextEditor.java
+git status
+git commit -m "[Harshit Anandd] : added TextEditor.java in Text Editor"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day02/texteeditor/TextEditorMain.java
+git status
+git commit -m "[Harshit Anandd] : added TextEditorMain.java in Text Editor"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day02/traincompanion/Compartment.java
+git status
+git commit -m "[Harshit Anandd] : added Compartment.java in Train Companion"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day02/traincompanion/Train.java
+git status
+git commit -m "[Harshit Anandd] : added Train.java in Train Companion"
+git push origin java-dsa-practice
+
+git status
+git add java-dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day02/traincompanion/TrainCompanion.java
+git status
+git commit -m "[Harshit Anandd] : added TrainCompanion.java in Train Companion"
+git push origin java-dsa-practice
