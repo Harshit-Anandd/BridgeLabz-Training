@@ -6,6 +6,7 @@
 
 # Java
 bin/
+lib/
 target/
 **/module-info.java
 
