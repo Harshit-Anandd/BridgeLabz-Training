@@ -7,6 +7,7 @@
 # Java
 bin/
 target/
+pom.xml
 **/module-info.java
 
 # Logs
