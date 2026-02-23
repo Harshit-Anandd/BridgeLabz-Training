@@ -8,6 +8,7 @@
 bin/
 target/
 **/module-info.java
+pom.xml
 
 # Logs
 *.log
